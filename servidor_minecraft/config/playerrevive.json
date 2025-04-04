@@ -1,0 +1,86 @@
+{
+  "banPlayerAfterDeath": false,
+  "bleeding": {
+    "bleedTime": 10000,
+    "triggerForCreative": true,
+    "bleedingMessage": true,
+    "bleedingMessageTrackingOnly": true,
+    "shouldGlow": true,
+    "bleedingEffects": [
+      {
+        "effect": "minecraft:night_vision",
+        "amplifier": 2,
+        "duration": 60,
+        "hideParticles": true
+      },
+      {
+        "effect": "minecraft:jump_boost",
+        "amplifier": 2,
+        "duration": 60,
+        "hideParticles": true
+      },
+      {
+        "effect": "minecraft:speed",
+        "amplifier": 2,
+        "duration": 60,
+        "hideParticles": true
+      }
+    ],
+    "affectHunger": false,
+    "remainingHunger": 17,
+    "initialDamageCooldown": 10,
+    "bleedingHealth": 20,
+    "disableMobDamage": true,
+    "disablePlayerDamage": true,
+    "disableOtherDamage": true,
+    "hasShaderEffect": true,
+    "changePermissionLevel": false,
+    "permissionLevel": 0,
+    "canBePushed": true,
+    "disableAllGUIAccess": false,
+    "disableInventoryAccess": false,
+    "disableChatAccess": false,
+    "disableServerCommands": false
+  },
+  "revive": {
+    "requiredReviveProgress": 100.0,
+    "progressPerPlayer": 1.0,
+    "exhaustion": 0.0,
+    "haltBleedTime": true,
+    "abortOnDamage": false,
+    "resetProgress": false,
+    "revivedEffects": [
+      {
+        "effect": "minecraft:regeneration",
+        "amplifier": 4,
+        "duration": 30,
+        "hideParticles": true
+      }
+    ],
+    "reviveItem": "{id:\"item\",item:\"minecraft:paper\"}",
+    "needReviveItem": false,
+    "consumeReviveItem": false,
+    "maxDistance": 5,
+    "healthAfter": 20
+  },
+  "sounds": {
+    "death": {
+      "sound": "playerrevive:death",
+      "volume": 1.0,
+      "pitch": 1.0
+    },
+    "revived": {
+      "sound": "playerrevive:revived",
+      "volume": 1.0,
+      "pitch": 1.0
+    }
+  },
+  "bypassDamageSources": [
+    "gorgon",
+    "death.attack.sgcraft:transient",
+    "death.attack.sgcraft:iris",
+    "vampirism_dbno",
+    "hordes:infection"
+  ],
+  "bleedInSingleplayer": false
+}

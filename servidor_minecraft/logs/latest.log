@@ -1098,3 +1098,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'hyperremaster:dome_of_stars'
 [05Apr2025 05:21:40.371] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
 [05Apr2025 05:21:57.972] [Server thread/WARN] [tombstone/]: The death event of the player HiperD3monic was canceled by another mod
 [05Apr2025 05:21:57.974] [Server thread/INFO] [tombstone/]: The player HiperD3monic has successfully been saved
+[05Apr2025 05:24:12.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HiperD3monic has made the advancement [Acquire Hardware]
+[05Apr2025 05:25:53.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Choomper: Made HiperD3monic a server operator]
+[05Apr2025 05:27:51.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Choomper has made the advancement [Second Age]
+[05Apr2025 05:28:29.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HiperD3monic has made the advancement [Sweet Dreams]
+[05Apr2025 05:29:21.620] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=117, y=25, z=876}
+[05Apr2025 05:29:23.216] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=76, y=-20, z=922}
+[05Apr2025 05:29:28.032] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[05Apr2025 05:29:30.077] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[05Apr2025 05:30:10.035] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-41, y=24, z=1102}
+[05Apr2025 05:30:14.326] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=28, y=-31, z=1109}
+[05Apr2025 05:30:27.366] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-85, y=15, z=1165}
+[05Apr2025 05:30:27.523] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-6, y=-6, z=1152}
+[05Apr2025 05:30:27.526] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=45, y=0, z=1160}
+[05Apr2025 05:30:30.322] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-208, y=-22, z=1171}
+[05Apr2025 05:30:30.337] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=11, y=-1, z=1180}
+[05Apr2025 05:30:33.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-66, y=-40, z=1191}
+[05Apr2025 05:31:02.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HiperD3monic has made the advancement ['X' Marks the Spot]

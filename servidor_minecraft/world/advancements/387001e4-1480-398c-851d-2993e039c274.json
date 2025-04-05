@@ -53,6 +53,12 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-04-05 05:37:43 +0000"
@@ -304,6 +310,12 @@
       "shot_arrow": "2025-04-05 06:37:25 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
   },
   "doggytalents:recipes/decorations/giant_stick": {
     "criteria": {
@@ -594,6 +606,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-04-05 05:24:12 +0000"
@@ -880,6 +898,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
+  },
   "doggytalents:recipes/misc/gender_bone": {
     "criteria": {
       "has_string": "2025-04-05 05:41:39 +0000"
@@ -1031,6 +1055,12 @@
     },
     "done": false
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-04-05 07:00:42 +0000"
@@ -1058,6 +1088,12 @@
   "ironchest:recipes/decorations/chests/gold_diamond_chest": {
     "criteria": {
       "has_diamonds": "2025-04-05 05:42:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
     },
     "done": false
   },
@@ -1248,6 +1284,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-05 07:05:29 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-04-05 05:42:40 +0000"
@@ -1348,6 +1390,12 @@
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-04-05 06:35:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
     },
     "done": false
   },
@@ -1504,6 +1552,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-04-05 05:31:17 +0000"
@@ -1513,6 +1567,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-04-05 05:40:16 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-04-05 07:04:57 +0000"
     },
     "done": false
   },
@@ -1687,6 +1747,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
@@ -1732,6 +1798,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-04-05 05:19:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
     },
     "done": false
   },
@@ -1792,6 +1864,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-05 05:19:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
     },
     "done": false
   },
@@ -1915,6 +1993,12 @@
       "location0": "2025-04-05 06:48:20 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -2133,6 +2217,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-05 07:05:29 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-04-05 06:55:19 +0000"
@@ -2209,6 +2299,12 @@
   "doggytalents:recipes/tools/conducting_bone": {
     "criteria": {
       "has_bone": "2025-04-05 05:39:54 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-04-05 07:04:15 +0000"
     },
     "done": false
   },

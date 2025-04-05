@@ -2942,6 +2942,79 @@
     },
     "done": false
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-05 05:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-04-05 05:24:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-04-05 05:24:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-05 05:24:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-04-05 05:24:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-04-05 05:24:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-05 05:24:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-05 05:24:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-05 05:24:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-05 05:24:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-04-05 05:26:58 +0000",
+      "has_the_recipe": "2025-04-05 05:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-05 05:26:58 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
@@ -2960,24 +3033,11 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-04-05 06:40:20 +0000",
-      "has_the_recipe": "2025-04-05 07:01:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
     },
     "done": false
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-04-05 06:53:05 +0000"
-    },
-    "done": true
   },
   "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
     "criteria": {
@@ -2991,33 +3051,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-05 06:00:20 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-04-05 05:43:37 +0000"
-    },
-    "done": false
-  },
   "connectedglass:recipes/misc/borderless_glass1": {
     "criteria": {
       "recipe_condition": "2025-04-05 05:27:30 +0000"
-    },
-    "done": false
-  },
-  "doggytalents:recipes/decorations/pianist_suit": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
-    },
-    "done": false
-  },
-  "doggytalents:recipes/decorations/bowtie": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
     },
     "done": false
   },
@@ -3039,21 +3075,9 @@
     },
     "done": false
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-04-05 06:16:42 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-04-05 05:31:49 +0000"
     },
     "done": false
   },
@@ -3081,34 +3105,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-04-05 07:01:28 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
-    },
-    "done": false
-  },
-  "dungeons_enhanced:ambitious_explorer": {
-    "criteria": {
-      "entered_tower_of_the_undead": "2025-04-05 06:40:16 +0000",
-      "entered_ruined_building": "2025-04-05 05:30:34 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
     },
     "done": false
   },
@@ -3118,45 +3117,9 @@
     },
     "done": false
   },
-  "doggytalents:recipes/decorations/wig": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
-    },
-    "done": false
-  },
-  "dramaticdoors:recipes/redstone/tall_dark_oak_door": {
-    "criteria": {
-      "has_items": "2025-04-05 07:02:32 +0000"
-    },
-    "done": false
-  },
   "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-05 05:31:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
-    },
-    "done": false
-  },
-  "justhammers:recipes/tools/iron_reinforced_hammer": {
-    "criteria": {
-      "has_material": "2025-04-05 06:40:26 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-04-05 05:24:19 +0000"
     },
     "done": false
   },
@@ -3166,57 +3129,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
-    },
-    "done": false
-  },
-  "doggytalents:recipes/decorations/locator_orb_shin": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
     },
     "done": false
   },
-  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-04-05 06:40:20 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
-    },
-    "done": false
-  },
-  "doggytalents:recipes/decorations/head_band_blank": {
-    "criteria": {
-      "has_paper": "2025-04-05 05:41:57 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-04-05 05:24:19 +0000"
-    },
-    "done": false
-  },
-  "doggytalents:recipes/decorations/bach_wig": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
     },
     "done": false
   },
@@ -3229,18 +3150,6 @@
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
-    },
-    "done": false
-  },
-  "doggytalents:recipes/decorations/birthday_hat_alt": {
-    "criteria": {
-      "has_paper": "2025-04-05 05:41:57 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-04-05 05:24:19 +0000"
     },
     "done": false
   },
@@ -3262,23 +3171,11 @@
     },
     "done": false
   },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2025-04-05 06:46:29 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
     },
     "done": false
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2025-04-05 05:16:16 +0000"
-    },
-    "done": true
   },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_glass": {
     "criteria": {
@@ -3286,33 +3183,9 @@
     },
     "done": false
   },
-  "evilcraft:second_age": {
-    "criteria": {
-      "criteria_0": "2025-04-05 05:27:51 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/decorations/wool_collar": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-04-05 06:46:01 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
-    },
-    "done": false
-  },
-  "doggytalents:recipes/misc/gender_bone": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
     },
     "done": false
   },
@@ -3325,19 +3198,6 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-04-05 06:40:26 +0000",
-      "has_the_recipe": "2025-04-05 06:59:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
     },
     "done": false
   },
@@ -3365,12 +3225,6 @@
     },
     "done": false
   },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-04-05 06:36:23 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
@@ -3380,42 +3234,6 @@
   "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
-    },
-    "done": false
-  },
-  "doggytalents:recipes/decorations/dog_gift_costume": {
-    "criteria": {
-      "has_paper": "2025-04-05 05:41:57 +0000"
-    },
-    "done": false
-  },
-  "doggytalents:recipes/decorations/snorkel": {
-    "criteria": {
-      "has_bamboo": "2025-04-05 05:37:30 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-04-05 05:41:02 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/funeral_theft": {
-    "criteria": {
-      "coded_trigger": "2025-04-05 06:39:25 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/decorations/locator_orb_dyable": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2025-04-05 05:31:49 +0000"
     },
     "done": false
   },
@@ -3431,24 +3249,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-04-05 05:31:49 +0000"
-    },
-    "done": false
-  },
-  "dungeons_arise:find_undead_pirate_ship": {
-    "criteria": {
-      "location0": "2025-04-05 06:34:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-05 06:00:20 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
@@ -3458,12 +3258,6 @@
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-04-05 05:41:57 +0000"
     },
     "done": false
   },
@@ -3491,94 +3285,15 @@
     },
     "done": false
   },
-  "justhammers:recipes/tools/gold_reinforced_hammer": {
-    "criteria": {
-      "has_material": "2025-04-05 06:40:20 +0000"
-    },
-    "done": false
-  },
-  "dramaticdoors:recipes/redstone/short_dark_oak_door": {
-    "criteria": {
-      "has_items": "2025-04-05 07:02:32 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-04-05 05:26:58 +0000",
-      "has_the_recipe": "2025-04-05 05:27:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-04-05 07:01:28 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-04-05 05:24:19 +0000"
-    },
-    "done": false
-  },
-  "justhammers:recipes/tools/gold_destructor_hammer": {
-    "criteria": {
-      "has_material": "2025-04-05 06:40:20 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
     },
     "done": false
   },
-  "doggytalents:recipes/food/uncooked_rice_bowl": {
-    "criteria": {
-      "has_dtn_rice_grains": "2025-04-05 05:30:47 +0000"
-    },
-    "done": false
-  },
-  "doggytalents:recipes/decorations/guard_suit": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-04-05 05:56:32 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-04-05 06:40:26 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-04-05 06:14:26 +0000"
     },
     "done": false
   },
@@ -3600,42 +3315,11 @@
     },
     "done": false
   },
-  "dungeons_enhanced:root": {
-    "criteria": {
-      "entered_tower_of_the_undead": "2025-04-05 06:40:16 +0000",
-      "entered_ruined_building": "2025-04-05 05:30:34 +0000"
-    },
-    "done": false
-  },
-  "doggytalents:recipes/decorations/locator_orb_rei": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-04-05 06:46:01 +0000"
-    },
-    "done": false
-  },
-  "doggytalents:recipes/decorations/wool_collar_thicc": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2025-04-05 06:39:25 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
@@ -3655,21 +3339,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2025-04-05 05:24:19 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-05 05:31:49 +0000"
     },
     "done": false
   },
@@ -3691,18 +3363,6 @@
     },
     "done": false
   },
-  "doggytalents:recipes/tools/empty_locator_orb": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
-    },
-    "done": false
-  },
-  "doggytalents:recipes/decorations/tengu_mask": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
@@ -3715,36 +3375,6 @@
     },
     "done": false
   },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-04-05 06:23:47 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/food/egg_sandwich": {
-    "criteria": {
-      "has_egg": "2025-04-05 05:31:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
-    },
-    "done": false
-  },
-  "doggytalents:recipes/decorations/locator_orb_jin": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
-    },
-    "done": false
-  },
-  "doggytalents:recipes/food/training_treat": {
-    "criteria": {
-      "has_dtn_rice_grains": "2025-04-05 05:30:47 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
@@ -3754,30 +3384,6 @@
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
-    },
-    "done": false
-  },
-  "doggytalents:recipes/decorations/kitsune_mask": {
-    "criteria": {
-      "has_string": "2025-04-05 05:54:47 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-04-05 05:24:19 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/spruce_door": {
-    "criteria": {
-      "has_planks": "2025-04-05 05:24:19 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-05 05:24:19 +0000"
     },
     "done": false
   },
@@ -3799,21 +3405,311 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
     "criteria": {
-      "has_sand": "2025-04-05 05:26:58 +0000"
+      "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "evilcraft:second_age": {
+    "criteria": {
+      "criteria_0": "2025-04-05 05:27:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-04-05 06:40:16 +0000",
+      "entered_ruined_building": "2025-04-05 05:30:34 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-04-05 06:40:16 +0000",
+      "entered_ruined_building": "2025-04-05 05:30:34 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/food/uncooked_rice_bowl": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-04-05 05:30:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/food/training_treat": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-04-05 05:30:47 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-04-05 05:31:49 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-05 05:31:49 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-04-05 05:31:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-05 05:31:49 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-05 05:31:49 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_egg": "2025-04-05 05:31:49 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-04-05 05:31:49 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/snorkel": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 05:37:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 05:37:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 05:37:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 05:37:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-05 05:41:02 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/head_band_blank": {
+    "criteria": {
+      "has_paper": "2025-04-05 05:41:57 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/birthday_hat_alt": {
+    "criteria": {
+      "has_paper": "2025-04-05 05:41:57 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/dog_gift_costume": {
+    "criteria": {
+      "has_paper": "2025-04-05 05:41:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-05 05:41:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-05 05:41:57 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-04-05 05:43:37 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-04-05 05:43:37 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/pianist_suit": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/bowtie": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/wig": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/locator_orb_shin": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/bach_wig": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/wool_collar": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/misc/gender_bone": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/locator_orb_dyable": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/guard_suit": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/locator_orb_rei": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/wool_collar_thicc": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/tools/empty_locator_orb": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/tengu_mask": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/locator_orb_jin": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/kitsune_mask": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-04-05 05:54:47 +0000"
-    },
-    "done": false
-  },
-  "justhammers:recipes/tools/iron_destructor_hammer": {
-    "criteria": {
-      "has_material": "2025-04-05 06:40:26 +0000"
     },
     "done": false
   },
@@ -3829,75 +3725,9 @@
     },
     "done": false
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-04-05 05:43:37 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-04-05 05:41:57 +0000"
-    },
-    "done": false
-  },
   "doggytalents:recipes/decorations/locator_orb_tei": {
     "criteria": {
       "has_string": "2025-04-05 05:54:47 +0000"
-    },
-    "done": false
-  },
-  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-04-05 05:27:30 +0000"
-    },
-    "done": false
-  },
-  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-04-05 05:27:30 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-04-05 05:37:30 +0000"
-    },
-    "done": false
-  },
-  "justhammers:recipes/tools/iron_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-04-05 06:40:26 +0000"
-    },
-    "done": false
-  },
-  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-04-05 05:27:30 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-04-05 05:37:30 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
-    },
-    "done": false
-  },
-  "justhammers:recipes/tools/gold_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-04-05 06:40:20 +0000"
-    },
-    "done": false
-  },
-  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-04-05 05:27:30 +0000"
     },
     "done": false
   },
@@ -3907,39 +3737,9 @@
     },
     "done": false
   },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2025-04-05 06:36:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
-    "criteria": {
-      "has_planks": "2025-04-05 05:24:19 +0000"
-    },
-    "done": false
-  },
-  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-04-05 05:27:30 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-04-05 06:40:26 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-05 05:54:47 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2025-04-05 05:37:30 +0000"
     },
     "done": false
   },
@@ -3949,21 +3749,299 @@
     },
     "done": false
   },
-  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
+  "tombstone:adventure/choose_knowledge": {
     "criteria": {
-      "has_glass": "2025-04-05 05:27:30 +0000"
+      "coded_trigger": "2025-04-05 05:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-05 06:00:20 +0000"
     },
     "done": false
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "minecraft:recipes/misc/blue_dye": {
     "criteria": {
-      "fried_egg": "2025-04-05 05:31:49 +0000"
+      "has_lapis_lazuli": "2025-04-05 06:00:20 +0000"
     },
     "done": false
   },
-  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
+  "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
-      "has_glass": "2025-04-05 05:27:30 +0000"
+      "has_emerald": "2025-04-05 06:14:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-05 06:16:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-05 06:23:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-04-05 06:34:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-04-05 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-05 06:36:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-04-05 06:39:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-04-05 06:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-05 06:40:20 +0000",
+      "has_the_recipe": "2025-04-05 07:01:06 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-05 06:40:20 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-04-05 06:40:20 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-04-05 06:40:20 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-05 06:40:20 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-04-05 06:40:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-05 06:40:26 +0000",
+      "has_the_recipe": "2025-04-05 06:59:25 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-05 06:40:26 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-04-05 06:40:26 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-05 06:40:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-05 06:40:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-04-05 06:46:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-05 06:46:01 +0000"
+    },
+    "done": false
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-05 06:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-05 06:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-05 07:01:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-05 07:01:28 +0000"
+    },
+    "done": false
+  },
+  "dramaticdoors:recipes/redstone/tall_dark_oak_door": {
+    "criteria": {
+      "has_items": "2025-04-05 07:02:32 +0000"
+    },
+    "done": false
+  },
+  "dramaticdoors:recipes/redstone/short_dark_oak_door": {
+    "criteria": {
+      "has_items": "2025-04-05 07:02:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-05 07:05:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-05 07:07:31 +0000"
     },
     "done": false
   },

@@ -21,7 +21,7 @@
       },
       {
         "effect": "minecraft:speed",
-        "amplifier": 2,
+        "amplifier": 4,
         "duration": 60,
         "hideParticles": true
       }
@@ -33,7 +33,7 @@
     "disableMobDamage": true,
     "disablePlayerDamage": true,
     "disableOtherDamage": true,
-    "hasShaderEffect": true,
+    "hasShaderEffect": false,
     "changePermissionLevel": false,
     "permissionLevel": 0,
     "canBePushed": true,

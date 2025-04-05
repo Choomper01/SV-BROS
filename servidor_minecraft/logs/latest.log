@@ -1082,3 +1082,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'hyperremaster:dome_of_stars'
 [05Apr2025 05:10:18.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Choomper> as
 [05Apr2025 05:11:43.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choomper lost connection: Disconnected
 [05Apr2025 05:11:43.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Choomper left the game
+[05Apr2025 05:16:07.473] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Choomper[/127.79.4.24:52743] logged in with entity id 7970 at (-312.7164922638684, 76.0, 682.369179671282)
+[05Apr2025 05:16:07.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Choomper joined the game
+[05Apr2025 05:16:07.508] [Server thread/INFO] [Jade/]: Syncing config to Choomper (bef20a8c-acbf-34a6-b963-792067d10a57)
+[05Apr2025 05:16:08.308] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (787 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=787, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[05Apr2025 05:16:08.311] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Choomper (bef20a8c-acbf-34a6-b963-792067d10a57)
+[05Apr2025 05:16:21.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HiperD3monic[/127.219.155.160:56439] logged in with entity id 8430 at (0.5, 67.0, -6.5)
+[05Apr2025 05:16:21.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HiperD3monic joined the game
+[05Apr2025 05:16:21.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HiperD3monic has reached the goal [Easter]
+[05Apr2025 05:16:21.269] [Server thread/INFO] [Jade/]: Syncing config to HiperD3monic (387001e4-1480-398c-851d-2993e039c274)
+[05Apr2025 05:16:45.987] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to HiperD3monic (387001e4-1480-398c-851d-2993e039c274)
+[05Apr2025 05:18:08.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=68, z=-3}
+[05Apr2025 05:18:08.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=68, z=-4}
+[05Apr2025 05:21:40.365] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[05Apr2025 05:21:40.371] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[05Apr2025 05:21:57.972] [Server thread/WARN] [tombstone/]: The death event of the player HiperD3monic was canceled by another mod
+[05Apr2025 05:21:57.974] [Server thread/INFO] [tombstone/]: The player HiperD3monic has successfully been saved

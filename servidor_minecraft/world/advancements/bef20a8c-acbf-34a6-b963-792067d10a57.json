@@ -2768,78 +2768,6 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 05:11:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 05:11:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 05:11:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 05:11:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 05:11:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 05:11:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 05:11:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 05:11:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 05:11:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 05:11:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 05:11:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-05 05:11:27 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-05 05:04:36 +0000"
@@ -2873,12 +2801,6 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-05 05:04:36 +0000"
-    },
-    "done": false
-  },
-  "paraglider:recipes/misc/cosmetic/goddess_statue": {
-    "criteria": {
-      "has_goddess_statue": "2025-04-05 05:08:03 +0000"
     },
     "done": false
   },
@@ -2936,11 +2858,29 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-05 05:04:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-05 05:04:36 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-04-05 05:05:06 +0000"
     },
     "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-04-05 05:08:03 +0000"
+    },
+    "done": false
   },
   "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
     "criteria": {
@@ -2954,23 +2894,17 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-04-05 05:04:36 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-04-05 05:04:36 +0000"
-    },
-    "done": false
-  },
   "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-04-05 05:08:03 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-05 05:16:16 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

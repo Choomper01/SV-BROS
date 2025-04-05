@@ -1079,3 +1079,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'hyperremaster:dome_of_stars'
 [05Apr2025 19:54:05.720] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] CPU usage from last 10s, 1m, 15m:
 [05Apr2025 19:54:05.720] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.MinecraftServer/]: [⚡]  30%, 61%, 61%  (system)
 [05Apr2025 19:54:05.722] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.MinecraftServer/]: [⚡]  27%, 52%, 52%  (process)
+[05Apr2025 20:15:34.013] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] TPS from last 5s, 10s, 1m, 5m, 15m:
+[05Apr2025 20:15:34.014] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡]  20.0, 20.0, *20.0, 20.0, *20.0
+[05Apr2025 20:15:34.015] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] 
+[05Apr2025 20:15:34.016] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick durations (min/med/95%ile/max ms) from last 10s, 1m:
+[05Apr2025 20:15:34.026] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡]  0.4/0.8/1.1/3.4;  0.4/0.7/1.1/4.5
+[05Apr2025 20:15:34.027] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] 
+[05Apr2025 20:15:34.027] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] CPU usage from last 10s, 1m, 15m:
+[05Apr2025 20:15:34.028] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡]  25%, 25%, 25%  (system)
+[05Apr2025 20:15:34.029] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡]  24%, 24%, 24%  (process)
+[05Apr2025 20:15:38.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Apr2025 20:15:38.714] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[05Apr2025 20:15:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Apr2025 20:15:38.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Apr2025 20:15:38.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Apr2025 20:15:39.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Apr2025 20:15:39.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Apr2025 20:15:39.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Apr2025 20:15:39.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Apr2025 20:15:39.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Apr2025 20:15:39.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Apr2025 20:15:39.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Apr2025 20:15:39.813] [Server thread/INFO] [Framework/]: Unloading server configs...
+[05Apr2025 20:15:39.815] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[05Apr2025 20:15:39.817] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[05Apr2025 20:15:39.982] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

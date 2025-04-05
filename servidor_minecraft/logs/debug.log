@@ -6770,3 +6770,68 @@ com.google.gson.JsonSyntaxException: Unknown item 'hyperremaster:dome_of_stars'
 [05Apr2025 20:03:28.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Apr2025 20:08:28.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Apr2025 20:08:28.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 20:13:28.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 20:13:28.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 20:15:34.013] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] TPS from last 5s, 10s, 1m, 5m, 15m:
+[05Apr2025 20:15:34.014] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡]  20.0, 20.0, *20.0, 20.0, *20.0
+[05Apr2025 20:15:34.015] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] 
+[05Apr2025 20:15:34.016] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Tick durations (min/med/95%ile/max ms) from last 10s, 1m:
+[05Apr2025 20:15:34.026] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡]  0.4/0.8/1.1/3.4;  0.4/0.7/1.1/4.5
+[05Apr2025 20:15:34.027] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] 
+[05Apr2025 20:15:34.027] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] CPU usage from last 10s, 1m, 15m:
+[05Apr2025 20:15:34.028] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡]  25%, 25%, 25%  (system)
+[05Apr2025 20:15:34.029] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡]  24%, 24%, 24%  (process)
+[05Apr2025 20:15:38.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Apr2025 20:15:38.714] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[05Apr2025 20:15:38.721] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[05Apr2025 20:15:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Apr2025 20:15:38.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Apr2025 20:15:38.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Apr2025 20:15:39.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Apr2025 20:15:39.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Apr2025 20:15:39.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Apr2025 20:15:39.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 20:15:39.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 20:15:39.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Apr2025 20:15:39.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Apr2025 20:15:39.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Apr2025 20:15:39.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Apr2025 20:15:39.813] [Server thread/INFO] [Framework/]: Unloading server configs...
+[05Apr2025 20:15:39.814] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/SV-BROS/servidor_minecraft/config/goblintraders-entities.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23252!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23252!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23252!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23252!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23252!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23252!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23252!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23252!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23252!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23252!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.4.0-universal.jar%23326!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23321!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23321!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[05Apr2025 20:15:39.815] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[05Apr2025 20:15:39.817] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[05Apr2025 20:15:39.818] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[05Apr2025 20:15:39.819] [Server thread/DEBUG] [mixin/]: Mixing accessor.FakePlayerNetHandlerAccessor from alltheleaks.mixins.json into net.minecraftforge.common.util.FakePlayer$FakePlayerNetHandler
+[05Apr2025 20:15:39.952] [Server thread/DEBUG] [dev.uncandango.alltheleaks.AllTheLeaks/]: Rebuild listeners cache took 128ms
+[05Apr2025 20:15:39.953] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[05Apr2025 20:15:39.982] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

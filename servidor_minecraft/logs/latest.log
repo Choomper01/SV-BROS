@@ -1133,3 +1133,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'hyperremaster:dome_of_stars'
 [05Apr2025 05:49:47.669] [Server thread/INFO] [tombstone/]: The player HiperD3monic has successfully been saved
 [05Apr2025 05:51:55.619] [Server thread/WARN] [tombstone/]: The death event of the player HiperD3monic was canceled by another mod
 [05Apr2025 05:51:55.620] [Server thread/INFO] [tombstone/]: The player HiperD3monic has successfully been saved
+[05Apr2025 05:53:15.118] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[05Apr2025 05:53:15.120] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[05Apr2025 05:53:26.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Choomper was shot by Skeleton
+[05Apr2025 05:54:12.795] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[05Apr2025 05:54:12.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Choomper: Killed 274 entities]
+[05Apr2025 05:54:12.885] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[05Apr2025 05:54:19.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Choomper was killed
+[05Apr2025 05:55:55.769] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[05Apr2025 05:55:55.771] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[05Apr2025 05:56:03.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Choomper was shot by Skeleton
+[05Apr2025 05:56:32.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Choomper has made the advancement [Knowledge raises the soul]
+[05Apr2025 05:56:39.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HiperD3monic has made the advancement [Close Quarters]
+[05Apr2025 05:59:35.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HiperD3monic has made the advancement [Isn't It Iron Pick]
+[05Apr2025 06:09:53.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Choomper has made the advancement [Suit Up]

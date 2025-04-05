@@ -185,6 +185,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-05 05:50:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-04-05 05:42:17 +0000"
@@ -316,6 +322,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-04-05 05:42:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-04-05 05:57:12 +0000"
     },
     "done": false
   },
@@ -645,6 +657,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-05 05:50:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
@@ -663,6 +681,12 @@
     },
     "done": false
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-05 05:56:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-04-05 05:42:40 +0000"
@@ -678,6 +702,12 @@
   "doggytalents:recipes/misc/gender_bone": {
     "criteria": {
       "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-05 05:50:21 +0000"
     },
     "done": false
   },
@@ -979,13 +1009,20 @@
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
-      "iron_chestplate": "2025-04-05 05:27:04 +0000"
+      "iron_chestplate": "2025-04-05 05:27:04 +0000",
+      "iron_leggings": "2025-04-05 05:55:07 +0000"
     },
     "done": false
   },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-04-05 05:42:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-05 05:50:21 +0000"
     },
     "done": false
   },
@@ -997,7 +1034,10 @@
   },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
+      "has_iron_axe": "2025-04-05 05:58:20 +0000",
       "has_iron_shovel": "2025-04-05 05:37:26 +0000",
+      "has_iron_leggings": "2025-04-05 05:55:07 +0000",
+      "has_iron_pickaxe": "2025-04-05 05:59:35 +0000",
       "has_chainmail_helmet": "2025-04-05 05:24:43 +0000",
       "has_chainmail_boots": "2025-04-05 05:44:59 +0000",
       "has_chainmail_chestplate": "2025-04-05 05:37:10 +0000",
@@ -1028,6 +1068,12 @@
       "has_book": "2025-04-05 05:31:17 +0000"
     },
     "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-05 05:59:35 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
@@ -1073,6 +1119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-05 05:50:21 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-04-05 05:19:29 +0000"
@@ -1082,6 +1134,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-05 05:50:21 +0000"
     },
     "done": false
   },
@@ -1180,6 +1238,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-05 05:50:21 +0000"
     },
     "done": false
   },
@@ -1319,6 +1383,12 @@
   "justhammers:recipes/tools/diamond_hammer": {
     "criteria": {
       "has_material": "2025-04-05 05:42:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-05 05:50:21 +0000"
     },
     "done": false
   },
@@ -1470,6 +1540,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-04-05 05:30:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-05 05:50:21 +0000"
     },
     "done": false
   },
@@ -1637,9 +1713,10 @@
   },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
+      "has_the_recipe": "2025-04-05 05:58:20 +0000",
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
@@ -1649,7 +1726,10 @@
   },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
+      "has_iron_axe": "2025-04-05 05:58:20 +0000",
       "has_iron_shovel": "2025-04-05 05:37:26 +0000",
+      "has_iron_leggings": "2025-04-05 05:55:07 +0000",
+      "has_iron_pickaxe": "2025-04-05 05:59:35 +0000",
       "has_chainmail_helmet": "2025-04-05 05:24:43 +0000",
       "has_chainmail_boots": "2025-04-05 05:44:59 +0000",
       "has_chainmail_chestplate": "2025-04-05 05:37:10 +0000",
@@ -1660,6 +1740,12 @@
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-04-05 05:37:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-04-05 05:57:12 +0000"
     },
     "done": false
   },
@@ -1716,6 +1802,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-04-05 05:45:51 +0000",
+      "cooked_mutton": "2025-04-05 05:56:07 +0000",
       "mutton": "2025-04-05 05:45:57 +0000",
       "bread": "2025-04-05 05:18:02 +0000",
       "golden_carrot": "2025-04-05 05:31:55 +0000"

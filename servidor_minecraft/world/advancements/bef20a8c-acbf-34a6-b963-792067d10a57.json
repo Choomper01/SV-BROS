@@ -1831,6 +1831,7 @@
   },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000",
       "has_iron_ingot": "2025-04-04 05:30:14 +0000"
     },
     "done": false
@@ -2524,7 +2525,8 @@
   },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "has_golden_sword": "2025-04-04 06:24:02 +0000"
+      "has_golden_sword": "2025-04-04 06:24:02 +0000",
+      "has_golden_boots": "2025-04-05 05:57:37 +0000"
     },
     "done": false
   },
@@ -2566,7 +2568,8 @@
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "has_golden_sword": "2025-04-04 06:24:02 +0000"
+      "has_golden_sword": "2025-04-04 06:24:02 +0000",
+      "has_golden_boots": "2025-04-05 05:57:37 +0000"
     },
     "done": false
   },
@@ -2959,6 +2962,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-05 06:00:20 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-04-05 05:43:37 +0000"
@@ -2968,6 +2977,18 @@
   "connectedglass:recipes/misc/borderless_glass1": {
     "criteria": {
       "recipe_condition": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/pianist_suit": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/bowtie": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
     },
     "done": false
   },
@@ -3037,9 +3058,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/wig": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
     },
     "done": false
   },
@@ -3055,6 +3088,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-04-05 05:24:19 +0000"
@@ -3064,6 +3103,12 @@
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/locator_orb_shin": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
     },
     "done": false
   },
@@ -3088,6 +3133,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-04-05 05:24:19 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/bach_wig": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
     },
     "done": false
   },
@@ -3157,9 +3208,21 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/wool_collar": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/misc/gender_bone": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
     },
     "done": false
   },
@@ -3229,6 +3292,12 @@
     },
     "done": false
   },
+  "doggytalents:recipes/decorations/locator_orb_dyable": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-04-05 05:31:49 +0000"
@@ -3250,6 +3319,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-04-05 05:31:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-05 06:00:20 +0000"
     },
     "done": false
   },
@@ -3302,6 +3377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-04-05 05:24:19 +0000"
@@ -3320,9 +3401,27 @@
     },
     "done": false
   },
+  "doggytalents:recipes/decorations/guard_suit": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-05 05:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
     },
     "done": false
   },
@@ -3350,9 +3449,21 @@
     },
     "done": false
   },
+  "doggytalents:recipes/decorations/locator_orb_rei": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/wool_collar_thicc": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
     },
     "done": false
   },
@@ -3410,6 +3521,18 @@
     },
     "done": false
   },
+  "doggytalents:recipes/tools/empty_locator_orb": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/tengu_mask": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
@@ -3428,6 +3551,12 @@
     },
     "done": false
   },
+  "doggytalents:recipes/decorations/locator_orb_jin": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
   "doggytalents:recipes/food/training_treat": {
     "criteria": {
       "has_dtn_rice_grains": "2025-04-05 05:30:47 +0000"
@@ -3443,6 +3572,12 @@
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/kitsune_mask": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
     },
     "done": false
   },
@@ -3488,6 +3623,24 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/locator_orb_chu": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/locator_orb_chi": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-04-05 05:43:37 +0000"
@@ -3497,6 +3650,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-04-05 05:41:57 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/locator_orb_tei": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
     },
     "done": false
   },
@@ -3536,6 +3695,12 @@
     },
     "done": false
   },
+  "doggytalents:recipes/decorations/locator_orb_ko": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-04-05 05:24:19 +0000"
@@ -3548,9 +3713,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-04-05 05:37:30 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/locator_orb_gi": {
+    "criteria": {
+      "has_string": "2025-04-05 05:54:47 +0000"
     },
     "done": false
   },

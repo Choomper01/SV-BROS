@@ -5,6 +5,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-05 07:00:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-05 05:19:29 +0000"
@@ -191,6 +197,18 @@
     },
     "done": false
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-05 06:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 06:55:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-04-05 06:35:14 +0000"
@@ -257,6 +275,18 @@
     },
     "done": false
   },
+  "doggytalents:recipes/decorations/plague_doctor_mask": {
+    "criteria": {
+      "has_leather": "2025-04-05 07:00:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-05 07:00:42 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-05 05:19:29 +0000"
@@ -287,6 +317,12 @@
     },
     "done": false
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 06:55:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-04-05 05:16:21 +0000",
@@ -308,9 +344,10 @@
   },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
+      "has_the_recipe": "2025-04-05 07:02:59 +0000",
       "has_lots_of_items": "2025-04-05 05:30:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/shears": {
     "criteria": {
@@ -355,6 +392,12 @@
       "slept_in_bed": "2025-04-05 05:28:29 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 06:55:19 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
@@ -406,6 +449,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 06:55:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-04-05 05:19:55 +0000"
@@ -430,6 +479,12 @@
     },
     "done": false
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 06:55:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-04-05 05:31:17 +0000"
@@ -451,6 +506,12 @@
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-04-05 06:35:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-05 07:00:42 +0000"
     },
     "done": false
   },
@@ -557,6 +618,12 @@
     },
     "done": false
   },
+  "doggytalents:recipes/decorations/tantan_cape": {
+    "criteria": {
+      "has_leather": "2025-04-05 07:00:42 +0000"
+    },
+    "done": false
+  },
   "doggytalents:recipes/decorations/bach_wig": {
     "criteria": {
       "has_string": "2025-04-05 05:41:39 +0000"
@@ -611,6 +678,13 @@
       "opened_chest": "2025-04-05 05:31:02 +0000"
     },
     "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-04-05 07:00:42 +0000",
+      "has_the_recipe": "2025-04-05 07:03:10 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
@@ -681,6 +755,12 @@
   "doggytalents:recipes/tools/feathered_mantle": {
     "criteria": {
       "has_feather": "2025-04-05 05:30:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 06:55:19 +0000"
     },
     "done": false
   },
@@ -755,6 +835,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-05 07:00:42 +0000"
     },
     "done": false
   },
@@ -839,6 +925,12 @@
   "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-05 05:19:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 06:55:19 +0000"
     },
     "done": false
   },
@@ -939,9 +1031,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-05 07:00:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 06:55:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-04-05 05:42:40 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/cape_coloured": {
+    "criteria": {
+      "has_leather": "2025-04-05 07:00:42 +0000"
     },
     "done": false
   },
@@ -990,6 +1100,12 @@
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 06:55:19 +0000"
     },
     "done": false
   },
@@ -1059,6 +1175,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 06:55:19 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-04-05 05:16:22 +0000"
@@ -1120,6 +1242,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 06:55:19 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-04-05 05:42:40 +0000"
@@ -1135,6 +1263,18 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-05 07:00:42 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/leather_jacket": {
+    "criteria": {
+      "has_leather": "2025-04-05 07:00:42 +0000"
     },
     "done": false
   },
@@ -1248,6 +1388,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 06:55:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 06:55:19 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2025-04-05 06:35:14 +0000"
@@ -1257,6 +1409,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-04-05 05:30:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 06:55:19 +0000"
     },
     "done": false
   },
@@ -1361,6 +1519,12 @@
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-04-05 06:55:19 +0000"
     },
     "done": false
   },
@@ -1649,6 +1813,12 @@
     },
     "done": false
   },
+  "doggytalents:recipes/tools/treat_bag": {
+    "criteria": {
+      "has_leather": "2025-04-05 07:00:42 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-04-05 06:35:14 +0000"
@@ -1849,6 +2019,12 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-04-05 07:00:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-04-05 06:35:14 +0000"
@@ -1897,6 +2073,12 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-05 07:03:10 +0000"
+    },
+    "done": false
+  },
   "man_of_many_planes:misc/expanded_aircraftery": {
     "criteria": {
       "has_item": "2025-04-05 05:24:12 +0000"
@@ -1933,6 +2115,12 @@
     },
     "done": false
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 06:55:19 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-04-05 05:16:22 +0000"
@@ -1942,6 +2130,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 06:55:19 +0000"
     },
     "done": false
   },
@@ -2032,6 +2226,7 @@
       "minecraft:dark_forest": "2025-04-05 05:16:22 +0000",
       "minecraft:river": "2025-04-05 05:19:58 +0000",
       "minecraft:stony_shore": "2025-04-05 06:40:44 +0000",
+      "minecraft:dripstone_caves": "2025-04-05 06:54:24 +0000",
       "minecraft:forest": "2025-04-05 05:28:58 +0000",
       "minecraft:ocean": "2025-04-05 05:20:11 +0000",
       "minecraft:meadow": "2025-04-05 05:30:34 +0000",
@@ -2048,6 +2243,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-04-05 05:42:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 06:55:19 +0000"
     },
     "done": false
   },
@@ -2095,6 +2296,12 @@
   "doggytalents:recipes/decorations/locator_orb_ko": {
     "criteria": {
       "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-05 06:55:19 +0000"
     },
     "done": false
   },
@@ -2209,6 +2416,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-04-05 06:35:14 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-05 07:03:10 +0000"
     },
     "done": false
   },

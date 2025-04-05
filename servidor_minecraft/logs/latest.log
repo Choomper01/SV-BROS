@@ -1460,3 +1460,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'hyperremaster:dome_of_stars'
 [05Apr2025 06:53:03.418] [Server thread/WARN] [tombstone/]: The death event of the player HiperD3monic was canceled by another mod
 [05Apr2025 06:53:03.421] [Server thread/INFO] [tombstone/]: The player HiperD3monic has successfully been saved
 [05Apr2025 06:53:05.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Choomper has made the advancement [Not Today, Thank You]
+[05Apr2025 06:54:27.464] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[05Apr2025 06:54:27.469] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[05Apr2025 06:55:19.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HiperD3monic has made the advancement [Stone Age]

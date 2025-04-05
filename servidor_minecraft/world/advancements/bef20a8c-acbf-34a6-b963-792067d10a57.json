@@ -50,10 +50,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-04-05 06:53:31 +0000",
       "log_spam_fixer": "2025-04-04 04:56:40 +0000"
     },
-    "done": true
+    "done": false
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -88,6 +87,7 @@
       "minecraft:dark_forest": "2025-04-04 04:56:40 +0000",
       "minecraft:river": "2025-04-04 05:04:12 +0000",
       "minecraft:stony_shore": "2025-04-05 06:38:47 +0000",
+      "minecraft:dripstone_caves": "2025-04-05 06:54:19 +0000",
       "minecraft:grove": "2025-04-05 06:39:45 +0000",
       "minecraft:forest": "2025-04-04 05:15:55 +0000",
       "minecraft:ocean": "2025-04-04 05:12:30 +0000",
@@ -424,9 +424,10 @@
   },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
+      "has_the_recipe": "2025-04-05 07:02:32 +0000",
       "has_planks": "2025-04-04 05:03:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
@@ -490,9 +491,10 @@
   },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
+      "has_the_recipe": "2025-04-05 06:57:35 +0000",
       "has_lots_of_items": "2025-04-04 05:03:05 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
@@ -2960,9 +2962,10 @@
   },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
-      "has_gold_block": "2025-04-05 06:40:20 +0000"
+      "has_gold_block": "2025-04-05 06:40:20 +0000",
+      "has_the_recipe": "2025-04-05 07:01:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
@@ -3078,6 +3081,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-05 07:01:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
@@ -3112,6 +3121,12 @@
   "doggytalents:recipes/decorations/wig": {
     "criteria": {
       "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "dramaticdoors:recipes/redstone/tall_dark_oak_door": {
+    "criteria": {
+      "has_items": "2025-04-05 07:02:32 +0000"
     },
     "done": false
   },
@@ -3315,9 +3330,10 @@
   },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_iron_block": "2025-04-05 06:40:26 +0000"
+      "has_iron_block": "2025-04-05 06:40:26 +0000",
+      "has_the_recipe": "2025-04-05 06:59:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
@@ -3481,6 +3497,12 @@
     },
     "done": false
   },
+  "dramaticdoors:recipes/redstone/short_dark_oak_door": {
+    "criteria": {
+      "has_items": "2025-04-05 07:02:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-04-05 05:26:58 +0000",
@@ -3491,6 +3513,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-05 07:01:28 +0000"
     },
     "done": false
   },

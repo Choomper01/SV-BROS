@@ -77,11 +77,29 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 05:42:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 05:42:17 +0000"
+    },
+    "done": false
+  },
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2025-04-05 05:18:20 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-04-05 05:40:20 +0000"
+    },
+    "done": false
   },
   "ironchest:recipes/decorations/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
@@ -95,9 +113,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-05 05:42:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-05 05:42:40 +0000"
+    },
+    "done": false
+  },
   "doggytalents:recipes/combat/sussy_sickle": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 05:42:17 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/pianist_suit": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
     },
     "done": false
   },
@@ -107,9 +149,45 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 05:42:17 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/bowtie": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-05 05:42:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 05:42:17 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/witch_hat": {
+    "criteria": {
+      "has_potion": "2025-04-05 05:44:38 +0000"
+    },
+    "done": false
+  },
   "doggytalents:recipes/decorations/sunglasses": {
     "criteria": {
       "has_stick": "2025-04-05 05:19:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 05:42:17 +0000"
     },
     "done": false
   },
@@ -235,9 +313,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-05 05:42:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 05:42:17 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
     },
     "done": false
   },
@@ -250,6 +346,12 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-04-05 05:19:55 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/wig": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
     },
     "done": false
   },
@@ -271,6 +373,18 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 05:42:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2025-04-05 05:24:12 +0000"
@@ -289,15 +403,45 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-04-05 05:40:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-05 05:42:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-05 05:19:49 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-05 05:42:40 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-04-05 05:19:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 05:42:17 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/locator_orb_shin": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
     },
     "done": false
   },
@@ -310,6 +454,24 @@
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/head_band_blank": {
+    "criteria": {
+      "has_paper": "2025-04-05 05:45:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-04-05 05:40:16 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/bach_wig": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
     },
     "done": false
   },
@@ -379,6 +541,12 @@
     },
     "done": false
   },
+  "doggytalents:recipes/decorations/birthday_hat_alt": {
+    "criteria": {
+      "has_paper": "2025-04-05 05:45:09 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/misc/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-04-05 05:24:12 +0000"
@@ -412,6 +580,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-05 05:40:16 +0000"
     },
     "done": false
   },
@@ -483,9 +657,39 @@
     },
     "done": false
   },
+  "doggytalents:recipes/decorations/wool_collar": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-05 05:42:40 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 05:42:17 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/misc/gender_bone": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
   "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 05:42:17 +0000"
     },
     "done": false
   },
@@ -504,6 +708,12 @@
   "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 05:42:17 +0000"
     },
     "done": false
   },
@@ -557,6 +767,7 @@
   },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000",
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
     },
     "done": false
@@ -570,6 +781,18 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-04-05 05:19:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-05 05:42:40 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-04-05 05:42:40 +0000"
     },
     "done": false
   },
@@ -645,6 +868,12 @@
     },
     "done": false
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-05 05:42:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-04-05 05:24:12 +0000"
@@ -663,11 +892,23 @@
     },
     "done": false
   },
+  "doggytalents:recipes/food/super_treat": {
+    "criteria": {
+      "has_golden_apple": "2025-04-05 05:39:07 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-04-05 05:16:22 +0000"
     },
     "done": true
+  },
+  "doggytalents:recipes/decorations/dog_gift_costume": {
+    "criteria": {
+      "has_paper": "2025-04-05 05:45:09 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
@@ -678,6 +919,12 @@
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/snorkel": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 05:42:44 +0000"
     },
     "done": false
   },
@@ -700,9 +947,21 @@
     },
     "done": false
   },
+  "doggytalents:recipes/decorations/locator_orb_dyable": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-04-05 05:31:11 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-04-05 05:42:40 +0000"
     },
     "done": false
   },
@@ -724,6 +983,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-05 05:42:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-05 05:19:49 +0000"
@@ -734,6 +999,7 @@
     "criteria": {
       "has_iron_shovel": "2025-04-05 05:37:26 +0000",
       "has_chainmail_helmet": "2025-04-05 05:24:43 +0000",
+      "has_chainmail_boots": "2025-04-05 05:44:59 +0000",
       "has_chainmail_chestplate": "2025-04-05 05:37:10 +0000",
       "has_iron_chestplate": "2025-04-05 05:27:04 +0000"
     },
@@ -748,6 +1014,12 @@
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/tools/shrinking_mallet": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 05:42:17 +0000"
     },
     "done": false
   },
@@ -767,6 +1039,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-05 05:19:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-05 05:45:09 +0000"
     },
     "done": false
   },
@@ -813,6 +1091,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
@@ -833,13 +1117,20 @@
   },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_gold_nugget": "2025-04-05 05:31:13 +0000"
+      "has_gold_nugget": "2025-04-05 05:31:13 +0000",
+      "has_the_recipe": "2025-04-05 05:44:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-04-05 05:31:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-04-05 05:40:16 +0000"
     },
     "done": false
   },
@@ -862,6 +1153,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 05:42:17 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/guard_suit": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-04-05 05:37:31 +0000"
@@ -874,9 +1177,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-04-05 05:19:49 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/tools/throw_bone": {
+    "criteria": {
+      "has_bone": "2025-04-05 05:39:54 +0000"
     },
     "done": false
   },
@@ -911,9 +1226,27 @@
     },
     "done": false
   },
+  "doggytalents:recipes/decorations/locator_orb_rei": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
   "doggytalents:recipes/decorations/lab_coat": {
     "criteria": {
       "has_wool": "2025-04-05 05:30:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-05 05:39:54 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/tools/magnifying_bone": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 05:42:17 +0000"
     },
     "done": false
   },
@@ -938,6 +1271,18 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-05 05:19:55 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/wool_collar_thicc": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/tools/canine_tracker": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 05:42:17 +0000"
     },
     "done": false
   },
@@ -971,9 +1316,21 @@
     },
     "done": false
   },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2025-04-05 05:42:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-04-05 05:37:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-04-05 05:40:16 +0000"
     },
     "done": false
   },
@@ -1007,6 +1364,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-05 05:42:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
@@ -1016,6 +1379,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/tools/empty_locator_orb": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
     },
     "done": false
   },
@@ -1068,6 +1437,12 @@
     },
     "done": false
   },
+  "doggytalents:recipes/decorations/tengu_mask": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
   "justhammers:recipes/tools/iron_hammer": {
     "criteria": {
       "has_material": "2025-04-05 05:24:12 +0000"
@@ -1116,11 +1491,23 @@
     },
     "done": false
   },
+  "doggytalents:recipes/decorations/locator_orb_jin": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-04-05 05:19:29 +0000"
     },
     "done": false
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-05 05:39:44 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
@@ -1137,6 +1524,18 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-04-05 05:34:37 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-04-05 05:39:54 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/kitsune_mask": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
     },
     "done": false
   },
@@ -1164,6 +1563,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-05 05:40:16 +0000"
+    },
+    "done": false
+  },
   "man_of_many_planes:misc/expanded_aircraftery": {
     "criteria": {
       "has_item": "2025-04-05 05:24:12 +0000"
@@ -1173,6 +1578,18 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-04-05 05:30:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-05 05:40:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-05 05:40:16 +0000"
     },
     "done": false
   },
@@ -1194,9 +1611,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/locator_orb_chu": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/locator_orb_chi": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-04-05 05:40:20 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-05 05:45:09 +0000"
     },
     "done": false
   },
@@ -1204,6 +1651,7 @@
     "criteria": {
       "has_iron_shovel": "2025-04-05 05:37:26 +0000",
       "has_chainmail_helmet": "2025-04-05 05:24:43 +0000",
+      "has_chainmail_boots": "2025-04-05 05:44:59 +0000",
       "has_chainmail_chestplate": "2025-04-05 05:37:10 +0000",
       "has_iron_chestplate": "2025-04-05 05:27:04 +0000"
     },
@@ -1212,6 +1660,18 @@
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-04-05 05:37:19 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/tools/conducting_bone": {
+    "criteria": {
+      "has_bone": "2025-04-05 05:39:54 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/locator_orb_tei": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
     },
     "done": false
   },
@@ -1229,9 +1689,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 05:42:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-04-05 05:31:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 05:42:17 +0000"
     },
     "done": false
   },
@@ -1243,8 +1715,28 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-04-05 05:45:51 +0000",
+      "mutton": "2025-04-05 05:45:57 +0000",
       "bread": "2025-04-05 05:18:02 +0000",
       "golden_carrot": "2025-04-05 05:31:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 05:42:44 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/locator_orb_ko": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-05 05:40:16 +0000"
     },
     "done": false
   },
@@ -1254,9 +1746,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-05 05:42:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 05:42:44 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-04-05 05:37:31 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/locator_orb_gi": {
+    "criteria": {
+      "has_string": "2025-04-05 05:41:39 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_material": "2025-04-05 05:42:17 +0000"
     },
     "done": false
   },
@@ -1299,6 +1821,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-05 05:19:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-05 05:42:17 +0000"
     },
     "done": false
   },

@@ -1117,3 +1117,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'hyperremaster:dome_of_stars'
 [05Apr2025 05:31:02.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HiperD3monic has made the advancement ['X' Marks the Spot]
 [05Apr2025 05:39:44.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HiperD3monic has made the advancement [Disme A Dozen]
 [05Apr2025 05:42:40.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HiperD3monic has made the advancement [Diamonds!]
+[05Apr2025 05:46:47.189] [Server thread/WARN] [tombstone/]: The death event of the player HiperD3monic was canceled by another mod
+[05Apr2025 05:46:47.190] [Server thread/INFO] [tombstone/]: The player HiperD3monic has successfully been saved
+[05Apr2025 05:48:04.147] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[05Apr2025 05:48:04.149] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[05Apr2025 05:48:17.539] [Server thread/WARN] [tombstone/]: The death event of the player HiperD3monic was canceled by another mod
+[05Apr2025 05:48:17.540] [Server thread/INFO] [tombstone/]: The player HiperD3monic has successfully been saved
+[05Apr2025 05:48:41.742] [Server thread/WARN] [tombstone/]: The death event of the player HiperD3monic was canceled by another mod
+[05Apr2025 05:48:41.744] [Server thread/INFO] [tombstone/]: The player HiperD3monic has successfully been saved
+[05Apr2025 05:49:16.865] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[05Apr2025 05:49:16.867] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[05Apr2025 05:49:33.837] [Server thread/WARN] [tombstone/]: The death event of the player HiperD3monic was canceled by another mod
+[05Apr2025 05:49:33.838] [Server thread/INFO] [tombstone/]: The player HiperD3monic has successfully been saved
+[05Apr2025 05:49:47.667] [Server thread/WARN] [tombstone/]: The death event of the player HiperD3monic was canceled by another mod
+[05Apr2025 05:49:47.669] [Server thread/INFO] [tombstone/]: The player HiperD3monic has successfully been saved
+[05Apr2025 05:51:55.619] [Server thread/WARN] [tombstone/]: The death event of the player HiperD3monic was canceled by another mod
+[05Apr2025 05:51:55.620] [Server thread/INFO] [tombstone/]: The player HiperD3monic has successfully been saved

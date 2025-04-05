@@ -1788,6 +1788,7 @@
   },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
+      "has_iron_nugget": "2025-04-05 05:41:02 +0000",
       "has_iron_ingot": "2025-04-04 05:30:14 +0000"
     },
     "done": false
@@ -1952,6 +1953,7 @@
   },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
+      "has_iron_nugget": "2025-04-05 05:41:02 +0000",
       "has_iron_ingot": "2025-04-04 05:30:14 +0000"
     },
     "done": false
@@ -2045,11 +2047,13 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_horse_armor": "2025-04-04 06:26:51 +0000",
+      "has_iron_shovel": "2025-04-05 05:40:01 +0000",
       "has_iron_leggings": "2025-04-04 05:38:05 +0000",
       "has_chainmail_helmet": "2025-04-04 06:13:16 +0000",
       "has_iron_helmet": "2025-04-04 06:23:26 +0000",
       "has_iron_sword": "2025-04-04 05:30:25 +0000",
       "has_chainmail_leggings": "2025-04-04 06:11:51 +0000",
+      "has_chainmail_chestplate": "2025-04-05 05:41:55 +0000",
       "has_iron_chestplate": "2025-04-04 05:34:58 +0000"
     },
     "done": false
@@ -2057,11 +2061,13 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_horse_armor": "2025-04-04 06:26:51 +0000",
+      "has_iron_shovel": "2025-04-05 05:40:01 +0000",
       "has_iron_leggings": "2025-04-04 05:38:05 +0000",
       "has_chainmail_helmet": "2025-04-04 06:13:16 +0000",
       "has_iron_helmet": "2025-04-04 06:23:26 +0000",
       "has_iron_sword": "2025-04-04 05:30:25 +0000",
       "has_chainmail_leggings": "2025-04-04 06:11:51 +0000",
+      "has_chainmail_chestplate": "2025-04-05 05:41:55 +0000",
       "has_iron_chestplate": "2025-04-04 05:34:58 +0000"
     },
     "done": false
@@ -2953,6 +2959,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-04-05 05:43:37 +0000"
+    },
+    "done": false
+  },
   "connectedglass:recipes/misc/borderless_glass1": {
     "criteria": {
       "recipe_condition": "2025-04-05 05:27:30 +0000"
@@ -3061,6 +3073,12 @@
     },
     "done": false
   },
+  "doggytalents:recipes/decorations/head_band_blank": {
+    "criteria": {
+      "has_paper": "2025-04-05 05:41:57 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
@@ -3082,6 +3100,12 @@
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/birthday_hat_alt": {
+    "criteria": {
+      "has_paper": "2025-04-05 05:41:57 +0000"
     },
     "done": false
   },
@@ -3187,9 +3211,21 @@
     },
     "done": false
   },
+  "doggytalents:recipes/decorations/dog_gift_costume": {
+    "criteria": {
+      "has_paper": "2025-04-05 05:41:57 +0000"
+    },
+    "done": false
+  },
   "doggytalents:recipes/decorations/snorkel": {
     "criteria": {
       "has_bamboo": "2025-04-05 05:37:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-05 05:41:02 +0000"
     },
     "done": false
   },
@@ -3226,6 +3262,12 @@
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-05 05:41:57 +0000"
     },
     "done": false
   },
@@ -3443,6 +3485,18 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-04-05 05:26:58 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-04-05 05:43:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-05 05:41:57 +0000"
     },
     "done": false
   },

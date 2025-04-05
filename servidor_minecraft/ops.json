@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "bef20a8c-acbf-34a6-b963-792067d10a57",
+    "name": "Choomper",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

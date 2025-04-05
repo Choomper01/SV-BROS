@@ -11,6 +11,12 @@
     },
     "done": false
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-04-05 05:30:35 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-04-05 05:16:21 +0000"
@@ -41,11 +47,35 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-05 05:37:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-05 05:30:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-05 05:30:43 +0000"
+    },
+    "done": false
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-04-05 05:19:54 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-05 05:37:31 +0000"
+    },
+    "done": false
   },
   "evilcraft:root": {
     "criteria": {
@@ -107,6 +137,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-05 05:30:35 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-05 05:19:29 +0000"
@@ -144,6 +180,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-05 05:30:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
@@ -162,6 +204,30 @@
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-05 05:31:13 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_ruined_building": "2025-04-05 05:30:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-05 05:31:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-05 05:28:29 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
@@ -193,9 +259,33 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-05 05:34:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-05 05:31:17 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-04-05 05:31:27 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-04-05 05:34:13 +0000"
     },
     "done": false
   },
@@ -265,6 +355,18 @@
     },
     "done": false
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-04-05 05:31:02 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-04-05 05:37:19 +0000"
+    },
+    "done": false
+  },
   "portablemobs:recipes/misc/basic_capture_cell": {
     "criteria": {
       "recipe_condition": "2025-04-05 05:19:29 +0000"
@@ -313,6 +415,12 @@
     },
     "done": false
   },
+  "doggytalents:recipes/tools/feathered_mantle": {
+    "criteria": {
+      "has_feather": "2025-04-05 05:30:35 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-04-05 05:16:21 +0000"
@@ -334,13 +442,26 @@
   },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
+      "has_coal": "2025-04-05 05:37:11 +0000",
       "has_stick": "2025-04-05 05:19:29 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/conan_suit": {
+    "criteria": {
+      "has_wool": "2025-04-05 05:30:43 +0000"
     },
     "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-04-05 05:19:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-05 05:30:35 +0000"
     },
     "done": false
   },
@@ -410,6 +531,18 @@
     },
     "done": false
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-05 05:30:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-05 05:32:05 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-04-05 05:19:29 +0000"
@@ -428,9 +561,27 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-04-05 05:37:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-04-05 05:19:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-05 05:30:43 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/dog_plushie_toy_item": {
+    "criteria": {
+      "has_white_wool": "2025-04-05 05:30:43 +0000"
     },
     "done": false
   },
@@ -549,6 +700,18 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-04-05 05:31:11 +0000"
+    },
+    "done": false
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-04-05 05:31:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
@@ -569,14 +732,28 @@
   },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
+      "has_iron_shovel": "2025-04-05 05:37:26 +0000",
       "has_chainmail_helmet": "2025-04-05 05:24:43 +0000",
+      "has_chainmail_chestplate": "2025-04-05 05:37:10 +0000",
       "has_iron_chestplate": "2025-04-05 05:27:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-05 05:34:37 +0000"
     },
     "done": false
   },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-05 05:31:17 +0000"
     },
     "done": false
   },
@@ -590,6 +767,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-05 05:19:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-05 05:30:35 +0000"
     },
     "done": false
   },
@@ -642,9 +825,46 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-05 05:34:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-05 05:31:13 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-05 05:31:17 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-05 05:30:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-04-05 05:30:35 +0000",
+      "has_flint": "2025-04-05 05:37:43 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-05 05:37:31 +0000"
     },
     "done": false
   },
@@ -676,6 +896,30 @@
   "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2025-04-05 05:19:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-05 05:31:17 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_ruined_building": "2025-04-05 05:30:59 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/lab_coat": {
+    "criteria": {
+      "has_wool": "2025-04-05 05:30:43 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-05 05:31:17 +0000"
     },
     "done": false
   },
@@ -715,9 +959,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-04-05 05:30:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-04-05 05:19:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-05 05:37:11 +0000"
     },
     "done": false
   },
@@ -726,6 +982,12 @@
       "custom_test_name": "2025-04-05 05:16:21 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-05 05:37:31 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
@@ -782,6 +1044,12 @@
     },
     "done": false
   },
+  "doggytalents:recipes/decorations/beastars_uniform_male": {
+    "criteria": {
+      "has_wool": "2025-04-05 05:30:43 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/misc/reinforced_cherry_fence": {
     "criteria": {
       "has_stick": "2025-04-05 05:19:29 +0000"
@@ -818,6 +1086,30 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-05 05:34:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-05 05:30:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-05 05:37:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-04-05 05:30:43 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2025-04-05 05:24:12 +0000"
@@ -842,6 +1134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-05 05:34:37 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2025-04-05 05:24:12 +0000"
@@ -851,6 +1149,12 @@
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-05 05:19:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-05 05:37:31 +0000"
     },
     "done": false
   },
@@ -865,6 +1169,18 @@
       "has_item": "2025-04-05 05:24:12 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-05 05:30:43 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-05 05:30:43 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/misc/reinforced_mangrove_fence": {
     "criteria": {
@@ -886,8 +1202,16 @@
   },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
+      "has_iron_shovel": "2025-04-05 05:37:26 +0000",
       "has_chainmail_helmet": "2025-04-05 05:24:43 +0000",
+      "has_chainmail_chestplate": "2025-04-05 05:37:10 +0000",
       "has_iron_chestplate": "2025-04-05 05:27:04 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-04-05 05:37:19 +0000"
     },
     "done": false
   },
@@ -898,7 +1222,16 @@
       "minecraft:beach": "2025-04-05 05:20:06 +0000",
       "minecraft:dark_forest": "2025-04-05 05:16:22 +0000",
       "minecraft:river": "2025-04-05 05:19:58 +0000",
-      "minecraft:ocean": "2025-04-05 05:20:11 +0000"
+      "minecraft:forest": "2025-04-05 05:28:58 +0000",
+      "minecraft:ocean": "2025-04-05 05:20:11 +0000",
+      "minecraft:meadow": "2025-04-05 05:30:34 +0000",
+      "minecraft:plains": "2025-04-05 05:29:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-05 05:31:27 +0000"
     },
     "done": false
   },
@@ -910,7 +1243,20 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-04-05 05:18:02 +0000"
+      "bread": "2025-04-05 05:18:02 +0000",
+      "golden_carrot": "2025-04-05 05:31:55 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/building_blocks/dog_bed_def": {
+    "criteria": {
+      "has_wool": "2025-04-05 05:30:43 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-05 05:37:31 +0000"
     },
     "done": false
   },
@@ -941,6 +1287,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/beastars_uniform_female": {
+    "criteria": {
+      "has_wool": "2025-04-05 05:30:43 +0000"
     },
     "done": false
   },

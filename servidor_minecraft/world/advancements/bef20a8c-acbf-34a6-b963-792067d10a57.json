@@ -2983,6 +2983,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-04-05 05:31:49 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
@@ -3007,6 +3013,12 @@
     },
     "done": false
   },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_ruined_building": "2025-04-05 05:30:34 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
@@ -3022,6 +3034,12 @@
   "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-05 05:31:49 +0000"
     },
     "done": false
   },
@@ -3169,6 +3187,18 @@
     },
     "done": false
   },
+  "doggytalents:recipes/decorations/snorkel": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 05:37:30 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-04-05 05:31:49 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
@@ -3178,6 +3208,12 @@
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-05 05:31:49 +0000"
     },
     "done": false
   },
@@ -3236,6 +3272,12 @@
     },
     "done": false
   },
+  "doggytalents:recipes/food/uncooked_rice_bowl": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-04-05 05:30:47 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
@@ -3257,6 +3299,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_ruined_building": "2025-04-05 05:30:34 +0000"
     },
     "done": false
   },
@@ -3296,6 +3344,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-05 05:31:49 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
@@ -3323,6 +3377,18 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_egg": "2025-04-05 05:31:49 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/food/training_treat": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-04-05 05:30:47 +0000"
     },
     "done": false
   },
@@ -3392,9 +3458,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 05:37:30 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 05:37:30 +0000"
     },
     "done": false
   },
@@ -3416,9 +3494,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-05 05:37:30 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-04-05 05:31:49 +0000"
     },
     "done": false
   },

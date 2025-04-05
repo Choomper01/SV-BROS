@@ -50,9 +50,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-04-05 06:53:31 +0000",
       "log_spam_fixer": "2025-04-04 04:56:40 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -81,12 +82,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-04 05:13:30 +0000",
+      "minecraft:cherry_grove": "2025-04-05 06:39:17 +0000",
       "minecraft:birch_forest": "2025-04-04 05:04:26 +0000",
       "minecraft:beach": "2025-04-04 05:12:20 +0000",
       "minecraft:dark_forest": "2025-04-04 04:56:40 +0000",
       "minecraft:river": "2025-04-04 05:04:12 +0000",
+      "minecraft:stony_shore": "2025-04-05 06:38:47 +0000",
+      "minecraft:grove": "2025-04-05 06:39:45 +0000",
       "minecraft:forest": "2025-04-04 05:15:55 +0000",
       "minecraft:ocean": "2025-04-04 05:12:30 +0000",
+      "minecraft:frozen_peaks": "2025-04-05 06:39:39 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-04 05:03:57 +0000",
       "minecraft:meadow": "2025-04-04 06:02:19 +0000",
       "minecraft:plains": "2025-04-04 06:00:50 +0000"
@@ -509,6 +514,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-05 06:23:47 +0000",
       "minecraft:skeleton": "2025-04-04 05:25:00 +0000",
       "minecraft:spider": "2025-04-04 05:48:33 +0000",
       "minecraft:creeper": "2025-04-04 06:09:59 +0000",
@@ -525,6 +531,7 @@
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
+      "minecraft:pillager": "2025-04-05 06:23:47 +0000",
       "minecraft:skeleton": "2025-04-04 05:25:00 +0000",
       "minecraft:spider": "2025-04-04 05:48:33 +0000",
       "minecraft:creeper": "2025-04-04 06:09:59 +0000",
@@ -1650,9 +1657,10 @@
   },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
+      "has_the_recipe": "2025-04-05 06:10:00 +0000",
       "has_iron_ingot": "2025-04-04 05:30:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "doggytalents:recipes/tools/whistle": {
     "criteria": {
@@ -1782,9 +1790,10 @@
   },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
+      "has_the_recipe": "2025-04-05 06:09:53 +0000",
       "has_iron_ingot": "2025-04-04 05:30:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
@@ -2047,6 +2056,8 @@
   },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
+      "has_iron_axe": "2025-04-05 06:24:28 +0000",
+      "has_iron_boots": "2025-04-05 06:09:53 +0000",
       "has_iron_horse_armor": "2025-04-04 06:26:51 +0000",
       "has_iron_shovel": "2025-04-05 05:40:01 +0000",
       "has_iron_leggings": "2025-04-04 05:38:05 +0000",
@@ -2061,6 +2072,8 @@
   },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
+      "has_iron_axe": "2025-04-05 06:24:28 +0000",
+      "has_iron_boots": "2025-04-05 06:09:53 +0000",
       "has_iron_horse_armor": "2025-04-04 06:26:51 +0000",
       "has_iron_shovel": "2025-04-05 05:40:01 +0000",
       "has_iron_leggings": "2025-04-04 05:38:05 +0000",
@@ -2118,11 +2131,12 @@
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
+      "iron_boots": "2025-04-05 06:09:53 +0000",
       "iron_chestplate": "2025-04-04 05:34:58 +0000",
       "iron_leggings": "2025-04-04 05:38:05 +0000",
       "iron_helmet": "2025-04-04 06:23:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
@@ -2944,11 +2958,23 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-05 06:40:20 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
     },
     "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-05 06:53:05 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
     "criteria": {
@@ -3010,6 +3036,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-05 06:16:42 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
@@ -3046,8 +3078,15 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
+    },
+    "done": false
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-04-05 06:40:16 +0000",
       "entered_ruined_building": "2025-04-05 05:30:34 +0000"
     },
     "done": false
@@ -3094,6 +3133,12 @@
     },
     "done": false
   },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-04-05 06:40:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-04-05 05:24:19 +0000"
@@ -3106,6 +3151,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
+    },
+    "done": false
+  },
   "doggytalents:recipes/decorations/locator_orb_shin": {
     "criteria": {
       "has_string": "2025-04-05 05:54:47 +0000"
@@ -3115,6 +3166,18 @@
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-05 06:40:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
     },
     "done": false
   },
@@ -3184,6 +3247,12 @@
     },
     "done": false
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-05 06:46:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
@@ -3214,6 +3283,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-04-05 06:46:01 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
@@ -3235,6 +3310,18 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-05 06:40:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
     },
     "done": false
   },
@@ -3261,6 +3348,12 @@
       "has_glass": "2025-04-05 05:27:30 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-05 06:36:23 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
@@ -3292,6 +3385,12 @@
     },
     "done": false
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-04-05 06:39:25 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/locator_orb_dyable": {
     "criteria": {
       "has_string": "2025-04-05 05:54:47 +0000"
@@ -3321,6 +3420,12 @@
       "has_egg": "2025-04-05 05:31:49 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-04-05 06:34:11 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
@@ -3370,6 +3475,12 @@
     },
     "done": false
   },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-04-05 06:40:20 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-04-05 05:26:58 +0000",
@@ -3386,6 +3497,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-04-05 05:24:19 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-04-05 06:40:20 +0000"
     },
     "done": false
   },
@@ -3419,9 +3536,21 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-05 06:40:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-04-05 05:54:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-05 06:14:26 +0000"
     },
     "done": false
   },
@@ -3445,6 +3574,7 @@
   },
   "dungeons_enhanced:root": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-04-05 06:40:16 +0000",
       "entered_ruined_building": "2025-04-05 05:30:34 +0000"
     },
     "done": false
@@ -3461,11 +3591,23 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-05 06:46:01 +0000"
+    },
+    "done": false
+  },
   "doggytalents:recipes/decorations/wool_collar_thicc": {
     "criteria": {
       "has_string": "2025-04-05 05:54:47 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-04-05 06:39:25 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
@@ -3545,9 +3687,21 @@
     },
     "done": false
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-05 06:23:47 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/food/egg_sandwich": {
     "criteria": {
       "has_egg": "2025-04-05 05:31:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
     },
     "done": false
   },
@@ -3629,6 +3783,12 @@
     },
     "done": false
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-04-05 06:40:26 +0000"
+    },
+    "done": false
+  },
   "doggytalents:recipes/decorations/locator_orb_chu": {
     "criteria": {
       "has_string": "2025-04-05 05:54:47 +0000"
@@ -3677,6 +3837,12 @@
     },
     "done": false
   },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-05 06:40:26 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
@@ -3686,6 +3852,18 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-04-05 05:37:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 06:40:45 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-05 06:40:20 +0000"
     },
     "done": false
   },
@@ -3701,6 +3879,12 @@
     },
     "done": false
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-04-05 06:36:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-04-05 05:24:19 +0000"
@@ -3710,6 +3894,12 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-05 05:27:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-05 06:40:26 +0000"
     },
     "done": false
   },

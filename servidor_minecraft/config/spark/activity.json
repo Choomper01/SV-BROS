@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Choomper",
+      "uniqueId": "bef20a8c-acbf-34a6-b963-792067d10a57"
+    },
+    "time": 1743921690673,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/cPoTtiaJ1N"
+    }
+  }
+]

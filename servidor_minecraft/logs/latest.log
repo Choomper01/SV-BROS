@@ -1156,3 +1156,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Apr2025 21:17:16.458] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/SV-BROS/servidor_minecraft/./config/infernalmobs.cfg
 [06Apr2025 21:17:16.647] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 211181 bytes (in 22 string chunks with the size of 10000)
 [06Apr2025 21:17:16.648] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[06Apr2025 21:29:23.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Apr2025 21:29:23.953] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[06Apr2025 21:29:23.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Apr2025 21:29:23.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Apr2025 21:29:23.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Apr2025 21:29:24.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Apr2025 21:29:24.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Apr2025 21:29:24.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Apr2025 21:29:24.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Apr2025 21:29:24.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Apr2025 21:29:24.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Apr2025 21:29:24.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Apr2025 21:29:24.602] [Server thread/INFO] [Framework/]: Unloading server configs...
+[06Apr2025 21:29:24.603] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[06Apr2025 21:29:24.606] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[06Apr2025 21:29:24.704] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

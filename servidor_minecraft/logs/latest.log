@@ -1284,3 +1284,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'hyperremaster:dome_of_stars'
 [06Apr2025 04:46:38.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Choomper) moved too quickly! -12.097308315930263,-0.9652692133992105,5.177969058875988
 [06Apr2025 04:46:38.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Choomper) moved too quickly! -12.097308315930263,-0.9652692133992105,5.177969058875988
 [06Apr2025 04:46:38.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Choomper) moved too quickly! -10.98259464529076,-0.8830773708989739,4.700844022138199
+[06Apr2025 04:50:06.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Choomper: Stopping the server]
+[06Apr2025 04:50:06.228] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[06Apr2025 04:50:06.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Apr2025 04:50:06.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Apr2025 04:50:06.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Apr2025 04:50:06.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Apr2025 04:50:06.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Apr2025 04:50:06.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Apr2025 04:50:06.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Apr2025 04:50:06.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Apr2025 04:50:06.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Apr2025 04:50:06.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Apr2025 04:50:07.058] [Server thread/INFO] [Framework/]: Unloading server configs...
+[06Apr2025 04:50:07.059] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[06Apr2025 04:50:07.061] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[06Apr2025 04:50:07.121] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

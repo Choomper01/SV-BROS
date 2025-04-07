@@ -86,6 +86,8 @@
       "minecraft:deep_ocean": "2025-04-06 04:31:51 +0000",
       "minecraft:cherry_grove": "2025-04-05 06:39:17 +0000",
       "minecraft:birch_forest": "2025-04-04 05:04:26 +0000",
+      "minecraft:bamboo_jungle": "2025-04-07 04:20:44 +0000",
+      "minecraft:wooded_badlands": "2025-04-07 04:23:18 +0000",
       "minecraft:beach": "2025-04-04 05:12:20 +0000",
       "minecraft:dark_forest": "2025-04-04 04:56:40 +0000",
       "minecraft:mangrove_swamp": "2025-04-06 04:36:42 +0000",
@@ -98,9 +100,12 @@
       "minecraft:cold_ocean": "2025-04-06 04:45:56 +0000",
       "minecraft:forest": "2025-04-04 05:15:55 +0000",
       "minecraft:deep_cold_ocean": "2025-04-06 04:46:07 +0000",
+      "minecraft:desert": "2025-04-07 04:23:09 +0000",
       "minecraft:ocean": "2025-04-04 05:12:30 +0000",
+      "minecraft:jungle": "2025-04-07 04:20:16 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-06 04:30:42 +0000",
       "minecraft:windswept_savanna": "2025-04-06 04:40:22 +0000",
+      "minecraft:warm_ocean": "2025-04-07 04:23:27 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-06 04:43:23 +0000",
       "minecraft:frozen_peaks": "2025-04-05 06:39:39 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-04 05:03:57 +0000",
@@ -4215,6 +4220,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-04-07 04:28:23 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-07 03:35:20 +0000"
@@ -4242,6 +4253,24 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-07 03:37:57 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/witch_hat": {
+    "criteria": {
+      "has_potion": "2025-04-07 04:19:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-07 04:24:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-07 04:24:33 +0000"
     },
     "done": false
   },
@@ -4281,6 +4310,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-04-07 04:24:15 +0000"
+    },
+    "done": false
+  },
   "davespotioneering:recipes/tools/blue_umbrella": {
     "criteria": {
       "has_shield": "2025-04-07 03:03:39 +0000"
@@ -4296,6 +4331,14 @@
   "davespotioneering:recipes/tools/gilded_umbrella": {
     "criteria": {
       "has_shield": "2025-04-07 03:03:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-04-07 04:24:33 +0000",
+      "has_sandstone": "2025-04-07 04:24:33 +0000",
+      "has_cut_sandstone": "2025-04-07 04:24:15 +0000"
     },
     "done": false
   },
@@ -4342,9 +4385,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-07 04:24:33 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-07 03:35:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-07 04:24:33 +0000"
     },
     "done": false
   },
@@ -4357,6 +4412,24 @@
   "davespotioneering:recipes/tools/white_umbrella": {
     "criteria": {
       "has_shield": "2025-04-07 03:03:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-07 04:24:33 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-04-07 04:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-07 04:24:33 +0000"
     },
     "done": false
   },
@@ -4408,6 +4481,19 @@
     },
     "done": false
   },
+  "mutantmonsters:gunpowder_spice": {
+    "criteria": {
+      "obtained_chemical_x": "2025-04-07 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-04-07 04:24:33 +0000",
+      "has_sandstone": "2025-04-07 04:24:33 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-07 03:33:55 +0000"
@@ -4441,6 +4527,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-07 03:35:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-07 04:24:33 +0000"
     },
     "done": false
   },
@@ -4498,6 +4590,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-07 04:24:33 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-07 03:35:20 +0000"
@@ -4507,6 +4605,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-07 03:35:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-04-07 04:24:15 +0000"
     },
     "done": false
   },
@@ -4630,6 +4734,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-04-07 04:24:33 +0000"
+    },
+    "done": false
+  },
   "davespotioneering:recipes/tools/aged_umbrella": {
     "criteria": {
       "has_shield": "2025-04-07 03:03:39 +0000"
@@ -4647,6 +4757,12 @@
       "has_cobbled_deepslate": "2025-04-07 03:35:20 +0000"
     },
     "done": false
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-04-07 04:25:19 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -2991,3 +2991,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Apr2025 04:25:39.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Choomper) moved too quickly! 1.0864852519991928,3.9600799416568577,17.520444054214522
 [07Apr2025 04:25:39.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Choomper) moved too quickly! 0.6390608288800195,2.3627236065379122,10.524651576651195
 [07Apr2025 04:25:39.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of Choomper) moved too quickly! 0.6390608288800195,2.3627236065379122,10.524651576651195
+[07Apr2025 04:34:45.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 Choomper  has reached the goal [Hunted]
+[07Apr2025 04:35:11.309] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[07Apr2025 04:35:11.319] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[07Apr2025 04:35:17.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 Choomper  was blown up by Creeper
+[07Apr2025 04:36:10.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ii [Squad] ii 》 Choomper > ASD
+[07Apr2025 04:36:14.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ii [Squad] ii 》 Choomper : Stopping the server]
+[07Apr2025 04:36:14.682] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[07Apr2025 04:36:14.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Apr2025 04:36:14.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Apr2025 04:36:14.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Apr2025 04:36:14.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Apr2025 04:36:16.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Apr2025 04:36:16.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Apr2025 04:36:16.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Apr2025 04:36:16.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Apr2025 04:36:16.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Apr2025 04:36:16.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Apr2025 04:36:16.315] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07Apr2025 04:36:16.317] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[07Apr2025 04:36:16.319] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[07Apr2025 04:36:16.413] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

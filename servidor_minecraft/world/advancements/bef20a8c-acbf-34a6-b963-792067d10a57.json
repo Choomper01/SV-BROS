@@ -532,6 +532,7 @@
       "minecraft:skeleton": "2025-04-04 05:25:00 +0000",
       "minecraft:spider": "2025-04-04 05:48:33 +0000",
       "minecraft:creeper": "2025-04-04 06:09:59 +0000",
+      "minecraft:cave_spider": "2025-04-07 03:47:35 +0000",
       "minecraft:stray": "2025-04-04 06:19:34 +0000",
       "minecraft:zombie": "2025-04-04 05:03:32 +0000"
     },
@@ -549,6 +550,7 @@
       "minecraft:skeleton": "2025-04-04 05:25:00 +0000",
       "minecraft:spider": "2025-04-04 05:48:33 +0000",
       "minecraft:creeper": "2025-04-04 06:09:59 +0000",
+      "minecraft:cave_spider": "2025-04-07 03:47:35 +0000",
       "minecraft:stray": "2025-04-04 06:19:34 +0000",
       "minecraft:zombie": "2025-04-04 05:03:32 +0000"
     },
@@ -2080,6 +2082,7 @@
       "has_iron_sword": "2025-04-04 05:30:25 +0000",
       "has_chainmail_leggings": "2025-04-04 06:11:51 +0000",
       "has_chainmail_chestplate": "2025-04-05 05:41:55 +0000",
+      "has_chainmail_boots": "2025-04-07 03:39:17 +0000",
       "has_iron_chestplate": "2025-04-04 05:34:58 +0000"
     },
     "done": false
@@ -2096,6 +2099,7 @@
       "has_iron_sword": "2025-04-04 05:30:25 +0000",
       "has_chainmail_leggings": "2025-04-04 06:11:51 +0000",
       "has_chainmail_chestplate": "2025-04-05 05:41:55 +0000",
+      "has_chainmail_boots": "2025-04-07 03:39:17 +0000",
       "has_iron_chestplate": "2025-04-04 05:34:58 +0000"
     },
     "done": false
@@ -4221,6 +4225,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-07 03:42:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-07 03:37:57 +0000"
+    },
+    "done": false
+  },
   "davespotioneering:recipes/brewing/compound_brewing_stand": {
     "criteria": {
       "has_shield": "2025-04-07 03:03:39 +0000"
@@ -4269,6 +4285,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-07 03:37:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-07 03:35:20 +0000"
@@ -4278,6 +4300,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-07 03:35:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-04-07 03:37:57 +0000"
     },
     "done": false
   },
@@ -4377,6 +4405,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-07 03:42:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-04-07 03:33:55 +0000"
@@ -4472,6 +4506,18 @@
       "has_shield": "2025-04-07 03:03:39 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-07 03:42:34 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-07 03:40:14 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {

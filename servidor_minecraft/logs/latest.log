@@ -1132,3 +1132,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Apr2025 03:40:14.358] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
 [07Apr2025 03:40:14.362] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
 [07Apr2025 03:40:29.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 Choomper  was blown up by Intruder
+[07Apr2025 03:42:18.453] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[07Apr2025 03:42:18.468] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[07Apr2025 03:42:27.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 Choomper  was blown up by Intruder
+[07Apr2025 03:47:10.650] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Faller'/15777, l='ServerLevel[world]', x=92.20, y=-1.75, z=1556.79] died: Faller was blown up by Faller

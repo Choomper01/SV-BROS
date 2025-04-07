@@ -1125,3 +1125,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Apr2025 03:20:23.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ii [Squad] ii 》 Choomper : Set display slot list to show objective armadura]
 [07Apr2025 03:20:29.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ii [Squad] ii 》 Choomper : Set display slot list to show objective vida]
 [07Apr2025 03:21:10.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ii [Squad] ii 》 Choomper > &\u00A7b\u00A7kii \u00A74[\u00A7c\u00A7nSquad\u00A74] \u00A73\u00A7kii \u00A7f>
+[07Apr2025 03:38:56.307] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[07Apr2025 03:38:56.321] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[07Apr2025 03:39:03.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 Choomper  was slain by Zombie
+[07Apr2025 03:40:14.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 Choomper  has reached the goal [Bone Crusher]
+[07Apr2025 03:40:14.358] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[07Apr2025 03:40:14.362] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[07Apr2025 03:40:29.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 Choomper  was blown up by Intruder

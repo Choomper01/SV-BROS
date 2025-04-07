@@ -2082,6 +2082,7 @@
       "has_iron_shovel": "2025-04-05 05:40:01 +0000",
       "has_iron_leggings": "2025-04-04 05:38:05 +0000",
       "has_chainmail_helmet": "2025-04-04 06:13:16 +0000",
+      "has_iron_hoe": "2025-04-07 04:09:55 +0000",
       "has_iron_helmet": "2025-04-04 06:23:26 +0000",
       "has_iron_sword": "2025-04-04 05:30:25 +0000",
       "has_chainmail_leggings": "2025-04-04 06:11:51 +0000",
@@ -2099,6 +2100,7 @@
       "has_iron_shovel": "2025-04-05 05:40:01 +0000",
       "has_iron_leggings": "2025-04-04 05:38:05 +0000",
       "has_chainmail_helmet": "2025-04-04 06:13:16 +0000",
+      "has_iron_hoe": "2025-04-07 04:09:55 +0000",
       "has_iron_helmet": "2025-04-04 06:23:26 +0000",
       "has_iron_sword": "2025-04-04 05:30:25 +0000",
       "has_chainmail_leggings": "2025-04-04 06:11:51 +0000",
@@ -4305,9 +4307,10 @@
   },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
-      "has_raw_gold": "2025-04-07 03:37:57 +0000"
+      "has_raw_gold": "2025-04-07 03:37:57 +0000",
+      "has_the_recipe": "2025-04-07 04:13:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
@@ -4354,6 +4357,12 @@
   "davespotioneering:recipes/tools/white_umbrella": {
     "criteria": {
       "has_shield": "2025-04-07 03:03:39 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/brewing/reinforced_cauldron": {
+    "criteria": {
+      "has_gold": "2025-04-07 04:13:18 +0000"
     },
     "done": false
   },
@@ -4405,6 +4414,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-07 04:11:23 +0000"
+    },
+    "done": false
+  },
   "davespotioneering:recipes/tools/magenta_umbrella": {
     "criteria": {
       "has_shield": "2025-04-07 03:03:39 +0000"
@@ -4426,6 +4441,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-07 03:35:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-07 04:11:23 +0000"
     },
     "done": false
   },
@@ -4555,6 +4576,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-07 04:11:23 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-04-07 04:01:12 +0000"
@@ -4594,6 +4621,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-04-07 03:33:47 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/brewing/potion_injector": {
+    "criteria": {
+      "has_leather": "2025-04-07 04:13:02 +0000"
     },
     "done": false
   },

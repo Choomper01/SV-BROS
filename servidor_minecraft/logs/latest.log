@@ -2366,3 +2366,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Apr2025 03:19:23.608] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1226, y=-38, z=212}
 [08Apr2025 03:21:00.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choomper moved wrongly!
 [08Apr2025 03:21:33.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choomper moved too quickly! -9.961127909240105,-3.85375534309307,-16.34678551736124
+[08Apr2025 03:22:24.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of HiperD3monic) moved wrongly! 0.5419397984812804
+[08Apr2025 03:22:38.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choomper moved too quickly! 33.93315868121644,2.2022427823423243,-21.665676027956124
+[08Apr2025 03:23:21.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ii [Squad] ii 》 Choomper > aa
+[08Apr2025 03:25:55.127] [Server thread/WARN] [tombstone/]: The death event of the player HiperD3monic was canceled by another mod
+[08Apr2025 03:25:55.130] [Server thread/INFO] [tombstone/]: The player HiperD3monic has successfully been saved
+[08Apr2025 03:26:13.642] [Server thread/WARN] [tombstone/]: The death event of the player HiperD3monic was canceled by another mod
+[08Apr2025 03:26:13.645] [Server thread/INFO] [tombstone/]: The player HiperD3monic has successfully been saved
+[08Apr2025 03:26:55.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 HiperD3monic  has made the advancement [Penteconter]
+[08Apr2025 03:28:09.994] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[08Apr2025 03:28:09.997] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[08Apr2025 03:30:43.246] [Server thread/WARN] [tombstone/]: The death event of the player HiperD3monic was canceled by another mod
+[08Apr2025 03:30:43.249] [Server thread/INFO] [tombstone/]: The player HiperD3monic has successfully been saved
+[08Apr2025 03:30:58.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 Choomper  has completed the challenge [Centennial]
+[08Apr2025 03:34:51.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ii [Squad] ii 》 Choomper : Stopping the server]
+[08Apr2025 03:34:51.379] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[08Apr2025 03:34:51.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Apr2025 03:34:51.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Apr2025 03:34:51.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Apr2025 03:34:51.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Apr2025 03:34:52.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Apr2025 03:34:52.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tht:dimension
+[08Apr2025 03:34:53.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Apr2025 03:34:53.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Apr2025 03:34:53.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Apr2025 03:34:53.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[08Apr2025 03:34:53.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Apr2025 03:34:53.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Apr2025 03:34:53.534] [Server thread/INFO] [Framework/]: Unloading server configs...
+[08Apr2025 03:34:53.536] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[08Apr2025 03:34:53.538] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[08Apr2025 03:34:53.616] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

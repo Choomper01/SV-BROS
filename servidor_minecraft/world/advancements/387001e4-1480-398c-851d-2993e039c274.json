@@ -117,6 +117,7 @@
     "criteria": {
       "chicken": "2025-04-05 05:45:51 +0000",
       "cooked_mutton": "2025-04-05 05:56:07 +0000",
+      "cooked_beef": "2025-04-08 03:28:18 +0000",
       "porkchop": "2025-04-08 03:19:34 +0000",
       "apple": "2025-04-05 06:45:20 +0000",
       "potato": "2025-04-08 02:19:34 +0000",
@@ -3163,15 +3164,111 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/food/golden_a_five_wagyu": {
+    "criteria": {
+      "has_cooked_beef": "2025-04-08 03:24:55 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-04-08 03:17:23 +0000"
     },
     "done": false
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-08 03:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-08 03:30:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-04-08 03:17:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-08 03:30:40 +0000"
     },
     "done": false
   },
@@ -3190,6 +3287,18 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-04-08 03:17:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-04-08 03:26:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-08 03:26:38 +0000"
     },
     "done": false
   },

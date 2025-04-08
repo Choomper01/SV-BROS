@@ -946,6 +946,7 @@
       "has_chainmail_helmet": "2025-04-05 05:24:43 +0000",
       "has_iron_helmet": "2025-04-05 06:19:02 +0000",
       "has_iron_sword": "2025-04-05 06:20:16 +0000",
+      "has_chainmail_leggings": "2025-04-08 01:38:40 +0000",
       "has_chainmail_boots": "2025-04-05 05:44:59 +0000",
       "has_chainmail_chestplate": "2025-04-05 05:37:10 +0000",
       "has_iron_chestplate": "2025-04-05 05:27:04 +0000"
@@ -962,6 +963,7 @@
       "has_chainmail_helmet": "2025-04-05 05:24:43 +0000",
       "has_iron_helmet": "2025-04-05 06:19:02 +0000",
       "has_iron_sword": "2025-04-05 06:20:16 +0000",
+      "has_chainmail_leggings": "2025-04-08 01:38:40 +0000",
       "has_chainmail_boots": "2025-04-05 05:44:59 +0000",
       "has_chainmail_chestplate": "2025-04-05 05:37:10 +0000",
       "has_iron_chestplate": "2025-04-05 05:27:04 +0000"
@@ -1920,6 +1922,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-05 06:24:13 +0000",
       "minecraft:skeleton": "2025-04-05 05:57:12 +0000",
+      "minecraft:spider": "2025-04-08 01:36:35 +0000",
       "minecraft:zombie": "2025-04-05 06:16:16 +0000"
     },
     "done": false
@@ -1928,6 +1931,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-05 06:24:13 +0000",
       "minecraft:skeleton": "2025-04-05 05:57:12 +0000",
+      "minecraft:spider": "2025-04-08 01:36:35 +0000",
       "minecraft:zombie": "2025-04-05 06:16:16 +0000"
     },
     "done": false
@@ -2472,6 +2476,84 @@
       "custom_test_name": "2025-04-08 01:31:28 +0000"
     },
     "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-04-08 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 01:45:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 01:45:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 01:45:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 01:45:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 01:45:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 01:45:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 01:45:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 01:45:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 01:45:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 01:45:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 01:45:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 01:45:24 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

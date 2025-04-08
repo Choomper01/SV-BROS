@@ -975,6 +975,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-04 05:25:32 +0000",
+      "minecraft:spider": "2025-04-08 03:01:28 +0000",
       "minecraft:cave_spider": "2025-04-08 02:41:08 +0000",
       "minecraft:enderman": "2025-04-04 05:37:31 +0000",
       "minecraft:silverfish": "2025-04-04 06:22:22 +0000",
@@ -985,6 +986,7 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-04-04 05:25:32 +0000",
+      "minecraft:spider": "2025-04-08 03:01:28 +0000",
       "minecraft:cave_spider": "2025-04-08 02:41:08 +0000",
       "minecraft:enderman": "2025-04-04 05:37:31 +0000",
       "minecraft:silverfish": "2025-04-04 06:22:22 +0000",
@@ -2713,6 +2715,79 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:01:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-04-08 03:01:27 +0000",
+      "log_spam_fixer": "2025-04-08 03:01:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:01:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:01:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:01:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:01:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:01:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:01:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:01:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:01:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:01:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 03:01:23 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-04-08 02:38:53 +0000"
@@ -2758,6 +2833,28 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-04-08 02:38:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-04-08 03:01:24 +0000",
+      "!bit13": "2025-04-08 03:01:24 +0000",
+      "!bit14": "2025-04-08 03:01:24 +0000",
+      "!bit11": "2025-04-08 03:01:24 +0000",
+      "!bit12": "2025-04-08 03:01:24 +0000",
+      "!bit10": "2025-04-08 03:01:24 +0000",
+      "!bit9": "2025-04-08 03:01:24 +0000",
+      "!bit8": "2025-04-08 03:01:24 +0000",
+      "!bit6": "2025-04-08 03:01:24 +0000",
+      "!bit5": "2025-04-08 03:01:24 +0000",
+      "!bit4": "2025-04-08 03:01:24 +0000",
+      "!bit3": "2025-04-08 03:01:24 +0000",
+      "!bit2": "2025-04-08 03:01:24 +0000",
+      "!bit1": "2025-04-08 03:01:24 +0000",
+      "bit7": "2025-04-08 03:01:24 +0000",
+      "bit0": "2025-04-08 03:01:24 +0000",
+      "target": "2025-04-08 03:01:24 +0000"
     },
     "done": false
   },
@@ -2874,6 +2971,12 @@
       "has_cobbled_deepslate": "2025-04-08 02:36:11 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-08 03:00:33 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
@@ -3031,6 +3134,12 @@
     },
     "done": false
   },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-04-08 03:00:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-08 02:36:11 +0000"
@@ -3066,6 +3175,12 @@
       "has_cobbled_deepslate": "2025-04-08 02:36:11 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-04-08 03:00:23 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {

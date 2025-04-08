@@ -85,6 +85,7 @@
       "minecraft:taiga": "2025-04-04 05:13:30 +0000",
       "minecraft:deep_ocean": "2025-04-06 04:31:51 +0000",
       "minecraft:cherry_grove": "2025-04-05 06:39:17 +0000",
+      "minecraft:sunflower_plains": "2025-04-08 03:18:16 +0000",
       "minecraft:birch_forest": "2025-04-04 05:04:26 +0000",
       "minecraft:bamboo_jungle": "2025-04-07 04:20:44 +0000",
       "minecraft:wooded_badlands": "2025-04-07 04:23:18 +0000",
@@ -4778,9 +4779,9 @@
     },
     "done": false
   },
-  "tombstone:recipes/from_blue_marble": {
+  "tombstone:adventure/combine_in_inventory": {
     "criteria": {
-      "has_ingredient": "2025-04-08 02:57:43 +0000"
+      "coded_trigger": "2025-04-08 02:45:59 +0000"
     },
     "done": true
   },
@@ -4790,27 +4791,9 @@
     },
     "done": false
   },
-  "tombstone:adventure/use_assistance": {
-    "criteria": {
-      "coded_trigger": "2025-04-08 02:55:52 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-04-08 02:52:25 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_grave_marble": {
-    "criteria": {
-      "has_grave_marble": "2025-04-08 02:57:43 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/combine_in_inventory": {
-    "criteria": {
-      "coded_trigger": "2025-04-08 02:45:59 +0000"
     },
     "done": true
   },
@@ -4820,11 +4803,53 @@
     },
     "done": false
   },
+  "tombstone:adventure/use_assistance": {
+    "criteria": {
+      "coded_trigger": "2025-04-08 02:55:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_blue_marble": {
+    "criteria": {
+      "has_ingredient": "2025-04-08 02:57:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2025-04-08 02:57:43 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_strange_tablet": {
     "criteria": {
       "has_strange_tablet": "2025-04-08 02:57:54 +0000"
     },
     "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-04-08 03:01:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-04-08 03:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-08 03:04:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-04-08 03:04:32 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

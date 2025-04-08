@@ -859,7 +859,8 @@
       "beef": "2025-04-04 05:05:10 +0000",
       "apple": "2025-04-04 05:45:34 +0000",
       "mutton": "2025-04-04 05:05:15 +0000",
-      "bread": "2025-04-04 06:05:44 +0000"
+      "bread": "2025-04-04 06:05:44 +0000",
+      "golden_apple": "2025-04-08 02:48:38 +0000"
     },
     "done": false
   },
@@ -1734,9 +1735,10 @@
   },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
+      "has_the_recipe": "2025-04-08 02:54:57 +0000",
       "has_iron_ingot": "2025-04-04 05:30:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
@@ -3917,9 +3919,10 @@
   },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
-      "has_iron_block": "2025-04-05 06:40:26 +0000"
+      "has_iron_block": "2025-04-05 06:40:26 +0000",
+      "has_the_recipe": "2025-04-08 02:55:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
@@ -4019,6 +4022,7 @@
   },
   "minecraft:story/shiny_gear": {
     "criteria": {
+      "diamond_leggings": "2025-04-08 02:52:24 +0000",
       "diamond_chestplate": "2025-04-07 04:05:10 +0000",
       "diamond_boots": "2025-04-06 04:32:23 +0000"
     },
@@ -4773,6 +4777,54 @@
       "has_dandelion": "2025-04-07 04:35:22 +0000"
     },
     "done": false
+  },
+  "tombstone:recipes/from_blue_marble": {
+    "criteria": {
+      "has_ingredient": "2025-04-08 02:57:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-08 02:52:24 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/use_assistance": {
+    "criteria": {
+      "coded_trigger": "2025-04-08 02:55:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-04-08 02:52:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2025-04-08 02:57:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-04-08 02:45:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-04-08 02:52:26 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/create_strange_tablet": {
+    "criteria": {
+      "has_strange_tablet": "2025-04-08 02:57:54 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

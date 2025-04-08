@@ -27,7 +27,7 @@
       }
     ],
     "affectHunger": false,
-    "remainingHunger": 17,
+    "remainingHunger": 20,
     "initialDamageCooldown": 10,
     "bleedingHealth": 20,
     "disableMobDamage": true,

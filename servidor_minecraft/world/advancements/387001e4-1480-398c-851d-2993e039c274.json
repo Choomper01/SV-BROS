@@ -89,6 +89,7 @@
       "minecraft:dripstone_caves": "2025-04-05 06:54:24 +0000",
       "minecraft:forest": "2025-04-05 05:28:58 +0000",
       "minecraft:ocean": "2025-04-05 05:20:11 +0000",
+      "minecraft:deep_dark": "2025-04-08 02:43:21 +0000",
       "minecraft:meadow": "2025-04-05 05:30:34 +0000",
       "minecraft:plains": "2025-04-05 05:29:51 +0000"
     },
@@ -543,9 +544,10 @@
   },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
+      "has_the_recipe": "2025-04-08 02:47:27 +0000",
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "doggytalents:recipes/tools/whistle": {
     "criteria": {
@@ -675,9 +677,10 @@
   },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
+      "has_the_recipe": "2025-04-08 02:47:32 +0000",
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
@@ -773,9 +776,10 @@
   },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
+      "has_the_recipe": "2025-04-08 02:47:54 +0000",
       "has_iron_ingot": "2025-04-05 05:24:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
@@ -1785,9 +1789,10 @@
   },
   "justhammers:recipes/tools/diamond_hammer": {
     "criteria": {
-      "has_material": "2025-04-05 05:42:40 +0000"
+      "has_material": "2025-04-05 05:42:40 +0000",
+      "has_the_recipe": "2025-04-08 02:36:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
@@ -1926,6 +1931,7 @@
       "minecraft:pillager": "2025-04-05 06:24:13 +0000",
       "minecraft:skeleton": "2025-04-05 05:57:12 +0000",
       "minecraft:spider": "2025-04-08 01:36:35 +0000",
+      "minecraft:creeper": "2025-04-08 02:44:19 +0000",
       "minecraft:witch": "2025-04-08 02:19:47 +0000",
       "minecraft:zombie": "2025-04-05 06:16:16 +0000"
     },
@@ -1936,6 +1942,7 @@
       "minecraft:pillager": "2025-04-05 06:24:13 +0000",
       "minecraft:skeleton": "2025-04-05 05:57:12 +0000",
       "minecraft:spider": "2025-04-08 01:36:35 +0000",
+      "minecraft:creeper": "2025-04-08 02:44:19 +0000",
       "minecraft:witch": "2025-04-08 02:19:47 +0000",
       "minecraft:zombie": "2025-04-05 06:16:16 +0000"
     },
@@ -2518,6 +2525,12 @@
     },
     "done": false
   },
+  "doggytalents:recipes/decorations/death_hood": {
+    "criteria": {
+      "has_soul_torch": "2025-04-08 02:52:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-08 02:28:08 +0000"
@@ -2527,6 +2540,30 @@
   "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
     "criteria": {
       "has_lapis_ore": "2025-04-08 02:27:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-04-08 02:34:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-04-08 02:33:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-08 02:33:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-04-08 02:52:08 +0000"
     },
     "done": false
   },
@@ -2545,6 +2582,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-08 02:28:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-08 02:51:33 +0000"
     },
     "done": false
   },
@@ -2572,6 +2615,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-08 02:34:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-08 02:28:08 +0000"
@@ -2584,6 +2633,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-08 02:51:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-08 02:51:33 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-08 02:28:08 +0000"
@@ -2593,6 +2654,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-08 02:28:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-08 02:34:29 +0000"
     },
     "done": false
   },
@@ -2614,15 +2681,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-08 02:33:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-08 02:55:40 +0000"
+    },
+    "done": false
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-04-08 02:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-04-08 02:34:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-08 02:28:08 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-08 02:33:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-08 02:33:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-04-08 02:55:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-04-08 02:19:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-04-08 02:31:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-08 02:34:29 +0000"
     },
     "done": false
   },
@@ -2638,9 +2759,33 @@
     },
     "done": false
   },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-08 02:51:33 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-08 02:28:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-04-08 02:34:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-04-08 02:40:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-08 02:33:11 +0000"
     },
     "done": false
   },
@@ -2656,9 +2801,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-08 02:33:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-04-08 02:21:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-04-08 02:31:52 +0000"
     },
     "done": false
   },
@@ -2677,6 +2834,12 @@
   "justhammers:recipes/tools/stone_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-04-08 02:22:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-04-08 02:34:29 +0000"
     },
     "done": false
   },
@@ -2704,6 +2867,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-08 02:33:11 +0000"
+    },
+    "done": false
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-04-08 02:41:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-08 02:22:03 +0000"
@@ -2713,6 +2888,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-08 02:22:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-08 02:33:11 +0000"
     },
     "done": false
   },
@@ -2728,6 +2909,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-08 02:33:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-08 02:28:08 +0000"
@@ -2737,6 +2924,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-08 02:22:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-08 02:34:29 +0000"
     },
     "done": false
   },
@@ -2752,6 +2945,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-04-08 02:55:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-08 02:33:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-08 02:22:03 +0000"
@@ -2761,6 +2966,24 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-04-08 02:22:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-08 02:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-08 02:51:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-08 02:34:29 +0000"
     },
     "done": false
   },
@@ -2776,15 +2999,45 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-08 02:33:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-08 02:33:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-08 02:34:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-08 02:28:08 +0000"
     },
     "done": false
   },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-04-08 02:52:33 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-08 02:19:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-04-08 02:34:29 +0000"
     },
     "done": false
   },

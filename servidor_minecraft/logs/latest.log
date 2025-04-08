@@ -1851,3 +1851,57 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Apr2025 02:30:14.054] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
 [08Apr2025 02:30:22.320] [Server thread/WARN] [tombstone/]: The death event of the player GustavPeneGIgant was canceled by another mod
 [08Apr2025 02:30:22.323] [Server thread/INFO] [tombstone/]: The player GustavPeneGIgant has successfully been saved
+[08Apr2025 02:32:15.923] [Server thread/WARN] [tombstone/]: The death event of the player GustavPeneGIgant was canceled by another mod
+[08Apr2025 02:32:15.926] [Server thread/INFO] [tombstone/]: The player GustavPeneGIgant has successfully been saved
+[08Apr2025 02:32:32.098] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[08Apr2025 02:32:32.101] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[08Apr2025 02:36:33.263] [Server thread/WARN] [tombstone/]: The death event of the player GustavPeneGIgant was canceled by another mod
+[08Apr2025 02:36:33.266] [Server thread/INFO] [tombstone/]: The player GustavPeneGIgant has successfully been saved
+[08Apr2025 02:37:18.250] [Server thread/WARN] [tombstone/]: The death event of the player HiperD3monic was canceled by another mod
+[08Apr2025 02:37:18.252] [Server thread/INFO] [tombstone/]: The player HiperD3monic has successfully been saved
+[08Apr2025 02:37:24.610] [Server thread/WARN] [tombstone/]: The death event of the player GustavPeneGIgant was canceled by another mod
+[08Apr2025 02:37:24.612] [Server thread/INFO] [tombstone/]: The player GustavPeneGIgant has successfully been saved
+[08Apr2025 02:37:49.754] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[08Apr2025 02:37:49.756] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[08Apr2025 02:38:27.872] [Server thread/ERROR] [creativecore/]: java.lang.RuntimeException: Could not find sync for global:item_dialog
+[08Apr2025 02:38:32.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 HiperD3monic  has made the advancement [First Age]
+[08Apr2025 02:38:38.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 GustavPeneGIgant  has made the advancement [Diamonds!]
+[08Apr2025 02:41:17.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 HiperD3monic  has made the advancement [Vampire Slayer]
+[08Apr2025 02:44:41.347] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[08Apr2025 02:44:41.348] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[08Apr2025 02:44:43.054] [Server thread/WARN] [tombstone/]: The death event of the player GustavPeneGIgant was canceled by another mod
+[08Apr2025 02:44:43.057] [Server thread/INFO] [tombstone/]: The player GustavPeneGIgant has successfully been saved
+[08Apr2025 02:45:11.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 Choomper  was slain by Zombie
+[08Apr2025 02:45:33.448] [Server thread/WARN] [tombstone/]: The death event of the player GustavPeneGIgant was canceled by another mod
+[08Apr2025 02:45:33.456] [Server thread/INFO] [tombstone/]: The player GustavPeneGIgant has successfully been saved
+[08Apr2025 02:45:34.394] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[08Apr2025 02:45:34.402] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[08Apr2025 02:45:46.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 Choomper  was slain by Warden
+[08Apr2025 02:45:59.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 Choomper  has made the advancement [Quickly Applied]
+[08Apr2025 02:47:49.539] [Server thread/WARN] [tombstone/]: The death event of the player GustavPeneGIgant was canceled by another mod
+[08Apr2025 02:47:49.548] [Server thread/INFO] [tombstone/]: The player GustavPeneGIgant has successfully been saved
+[08Apr2025 02:49:02.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 HiperD3monic  has made the advancement [Sneak 100]
+[08Apr2025 02:49:03.187] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[08Apr2025 02:49:03.195] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[08Apr2025 02:49:30.537] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[08Apr2025 02:49:30.545] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[08Apr2025 02:50:56.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 GustavPeneGIgant  has made the advancement [Sneak 100]
+[08Apr2025 02:50:57.942] [Server thread/WARN] [tombstone/]: The death event of the player GustavPeneGIgant was canceled by another mod
+[08Apr2025 02:50:57.950] [Server thread/INFO] [tombstone/]: The player GustavPeneGIgant has successfully been saved
+[08Apr2025 02:52:25.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 Choomper  has made the advancement [Where Is The Stone Pen?]
+[08Apr2025 02:53:41.294] [Server thread/WARN] [tombstone/]: The death event of the player GustavPeneGIgant was canceled by another mod
+[08Apr2025 02:53:41.306] [Server thread/INFO] [tombstone/]: The player GustavPeneGIgant has successfully been saved
+[08Apr2025 02:55:52.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 Choomper  has reached the goal [Leeroy Is Back]
+[08Apr2025 02:56:32.194] [Server thread/WARN] [tombstone/]: The death event of the player GustavPeneGIgant was canceled by another mod
+[08Apr2025 02:56:32.209] [Server thread/INFO] [tombstone/]: The player GustavPeneGIgant has successfully been saved
+[08Apr2025 02:57:43.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 Choomper  has made the advancement [Black or White]
+[08Apr2025 02:57:54.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 Choomper  has made the advancement [Not of Chocolate]
+[08Apr2025 02:58:49.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 GustavPeneGIgant  has reached the goal [Strong or Careful]
+[08Apr2025 02:58:49.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 GustavPeneGIgant  was obliterated by a sonically-charged shriek
+[08Apr2025 02:58:57.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ii [Squad] ii 》 Choomper > aa
+[08Apr2025 03:00:23.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 GustavPeneGIgant  has made the advancement [The Most Useful Key]
+[08Apr2025 03:00:23.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 GustavPeneGIgant  has made the advancement [Quickly Applied]
+[08Apr2025 03:00:33.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 GustavPeneGIgant  has reached the goal [A Fast Comeback]
+[08Apr2025 03:01:01.023] [Server thread/WARN] [tombstone/]: The death event of the player Choomper was canceled by another mod
+[08Apr2025 03:01:01.025] [Server thread/INFO] [tombstone/]: The player Choomper has successfully been saved
+[08Apr2025 03:01:20.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ii [Squad] ii 》 Choomper  has reached the goal [A Small Cemetery]

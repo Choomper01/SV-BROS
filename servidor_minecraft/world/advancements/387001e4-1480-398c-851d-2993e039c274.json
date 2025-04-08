@@ -118,11 +118,13 @@
       "chicken": "2025-04-05 05:45:51 +0000",
       "cooked_mutton": "2025-04-05 05:56:07 +0000",
       "cooked_beef": "2025-04-08 03:28:18 +0000",
+      "baked_potato": "2025-04-08 05:45:09 +0000",
       "porkchop": "2025-04-08 03:19:34 +0000",
       "apple": "2025-04-05 06:45:20 +0000",
       "potato": "2025-04-08 02:19:34 +0000",
       "mutton": "2025-04-05 05:45:57 +0000",
       "bread": "2025-04-05 05:18:02 +0000",
+      "golden_apple": "2025-04-08 06:05:49 +0000",
       "golden_carrot": "2025-04-05 05:31:55 +0000"
     },
     "done": false
@@ -1936,6 +1938,9 @@
       "minecraft:spider": "2025-04-08 01:36:35 +0000",
       "minecraft:creeper": "2025-04-08 02:44:19 +0000",
       "minecraft:witch": "2025-04-08 02:19:47 +0000",
+      "minecraft:cave_spider": "2025-04-08 05:20:33 +0000",
+      "minecraft:enderman": "2025-04-08 05:14:03 +0000",
+      "minecraft:stray": "2025-04-08 05:16:23 +0000",
       "minecraft:zombie": "2025-04-05 06:16:16 +0000"
     },
     "done": false
@@ -1947,6 +1952,9 @@
       "minecraft:spider": "2025-04-08 01:36:35 +0000",
       "minecraft:creeper": "2025-04-08 02:44:19 +0000",
       "minecraft:witch": "2025-04-08 02:19:47 +0000",
+      "minecraft:cave_spider": "2025-04-08 05:20:33 +0000",
+      "minecraft:enderman": "2025-04-08 05:14:03 +0000",
+      "minecraft:stray": "2025-04-08 05:16:23 +0000",
       "minecraft:zombie": "2025-04-05 06:16:16 +0000"
     },
     "done": false
@@ -3164,111 +3172,15 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-08 03:34:24 +0000"
-    },
-    "done": false
-  },
-  "doggytalents:recipes/food/golden_a_five_wagyu": {
-    "criteria": {
-      "has_cooked_beef": "2025-04-08 03:24:55 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-04-08 03:17:23 +0000"
     },
     "done": false
   },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2025-04-08 03:26:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-04-08 03:30:40 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-04-08 03:17:23 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-04-08 03:30:40 +0000"
     },
     "done": false
   },
@@ -3290,6 +3202,12 @@
     },
     "done": false
   },
+  "doggytalents:recipes/food/golden_a_five_wagyu": {
+    "criteria": {
+      "has_cooked_beef": "2025-04-08 03:24:55 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
     "criteria": {
       "has_wild_armor_trim_smithing_template": "2025-04-08 03:26:38 +0000"
@@ -3299,6 +3217,402 @@
   "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-04-08 03:26:38 +0000"
+    },
+    "done": false
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-08 03:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-08 03:30:40 +0000",
+      "has_the_recipe": "2025-04-08 05:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-08 03:30:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-04-08 05:53:09 +0000",
+      "has_golden_leggings": "2025-04-08 05:17:44 +0000",
+      "has_golden_boots": "2025-04-08 05:25:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-04-08 05:53:09 +0000",
+      "has_golden_leggings": "2025-04-08 05:17:44 +0000",
+      "has_golden_boots": "2025-04-08 05:25:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-08 05:20:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-08 05:26:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-08 05:26:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-08 05:26:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-08 05:26:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-08 05:26:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-08 05:26:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-08 05:26:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-08 05:26:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-08 05:26:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-04-08 05:50:31 +0000",
+      "diamond_boots": "2025-04-08 05:41:08 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-04-08 05:46:52 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-08 05:58:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 06:11:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 06:11:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 06:11:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 06:11:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 06:11:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 06:11:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 06:11:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 06:11:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 06:11:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 06:11:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 06:11:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-08 06:11:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-08 05:59:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-08 05:59:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-08 05:59:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-04-08 05:59:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-04-08 05:59:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-08 05:59:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-04-08 05:59:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-08 05:59:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-08 05:59:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-04-08 05:59:03 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/fedora": {
+    "criteria": {
+      "has_leather_helmet": "2025-04-08 06:05:59 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/brewing/compound_brewing_stand": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/tools/red_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-04-08 06:09:02 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/blue_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/tools/gilded_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/deer_antlers": {
+    "criteria": {
+      "has_leather_helmet": "2025-04-08 06:05:59 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/tools/white_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/tools/cyan_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/tools/light_blue_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/tools/green_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/tools/orange_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/tools/yellow_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/tools/magenta_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/use_assistance": {
+    "criteria": {
+      "coded_trigger": "2025-04-08 06:10:12 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/chef_hat": {
+    "criteria": {
+      "has_leather_helmet": "2025-04-08 06:05:59 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/demon_horns": {
+    "criteria": {
+      "has_leather_helmet": "2025-04-08 06:05:59 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/tools/lime_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/tools/light_gray_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/tools/gray_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/tools/black_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/tools/purple_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/tools/brown_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/tools/aged_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
+    },
+    "done": false
+  },
+  "davespotioneering:recipes/tools/pink_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-08 06:03:43 +0000"
     },
     "done": false
   },

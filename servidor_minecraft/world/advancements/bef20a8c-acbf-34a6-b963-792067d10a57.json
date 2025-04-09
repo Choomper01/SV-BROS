@@ -89,6 +89,7 @@
       "minecraft:birch_forest": "2025-04-04 05:04:26 +0000",
       "minecraft:bamboo_jungle": "2025-04-07 04:20:44 +0000",
       "minecraft:wooded_badlands": "2025-04-07 04:23:18 +0000",
+      "minecraft:badlands": "2025-04-09 05:16:04 +0000",
       "minecraft:beach": "2025-04-04 05:12:20 +0000",
       "minecraft:dark_forest": "2025-04-04 04:56:40 +0000",
       "minecraft:mangrove_swamp": "2025-04-06 04:36:42 +0000",
@@ -108,6 +109,7 @@
       "minecraft:windswept_savanna": "2025-04-06 04:40:22 +0000",
       "minecraft:warm_ocean": "2025-04-07 04:23:27 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-06 04:43:23 +0000",
+      "minecraft:flower_forest": "2025-04-09 05:14:33 +0000",
       "minecraft:frozen_peaks": "2025-04-05 06:39:39 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-04 05:03:57 +0000",
       "minecraft:deep_dark": "2025-04-07 03:49:15 +0000",
@@ -150,6 +152,7 @@
   },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
+      "has_wood_slab": "2025-04-09 04:42:50 +0000",
       "has_planks": "2025-04-04 05:01:42 +0000"
     },
     "done": false
@@ -487,9 +490,10 @@
   },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
+      "has_the_recipe": "2025-04-09 04:42:50 +0000",
       "has_planks": "2025-04-04 05:03:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
@@ -1847,9 +1851,10 @@
   },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
+      "has_the_recipe": "2025-04-09 04:29:49 +0000",
       "has_iron_ingot": "2025-04-04 05:30:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
     "criteria": {
@@ -2098,6 +2103,7 @@
       "has_iron_horse_armor": "2025-04-04 06:26:51 +0000",
       "has_iron_shovel": "2025-04-05 05:40:01 +0000",
       "has_iron_leggings": "2025-04-04 05:38:05 +0000",
+      "has_iron_pickaxe": "2025-04-09 04:13:33 +0000",
       "has_chainmail_helmet": "2025-04-04 06:13:16 +0000",
       "has_iron_hoe": "2025-04-07 04:09:55 +0000",
       "has_iron_helmet": "2025-04-04 06:23:26 +0000",
@@ -2116,6 +2122,7 @@
       "has_iron_horse_armor": "2025-04-04 06:26:51 +0000",
       "has_iron_shovel": "2025-04-05 05:40:01 +0000",
       "has_iron_leggings": "2025-04-04 05:38:05 +0000",
+      "has_iron_pickaxe": "2025-04-09 04:13:33 +0000",
       "has_chainmail_helmet": "2025-04-04 06:13:16 +0000",
       "has_iron_hoe": "2025-04-07 04:09:55 +0000",
       "has_iron_helmet": "2025-04-04 06:23:26 +0000",
@@ -4496,9 +4503,10 @@
   },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-04-07 03:35:20 +0000"
+      "has_cobbled_deepslate": "2025-04-07 03:35:20 +0000",
+      "has_the_recipe": "2025-04-09 04:37:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -4975,73 +4983,98 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:12:56 +0000"
+      "log_spam_fixer": "2025-04-09 05:24:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:12:56 +0000"
+      "log_spam_fixer": "2025-04-09 05:24:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:12:56 +0000"
+      "log_spam_fixer": "2025-04-09 05:24:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:12:56 +0000"
+      "log_spam_fixer": "2025-04-09 05:24:07 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:12:56 +0000"
+      "log_spam_fixer": "2025-04-09 05:24:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:12:56 +0000"
+      "log_spam_fixer": "2025-04-09 05:24:07 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:12:56 +0000"
+      "log_spam_fixer": "2025-04-09 05:24:07 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:12:56 +0000"
+      "log_spam_fixer": "2025-04-09 05:24:07 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:12:56 +0000"
+      "log_spam_fixer": "2025-04-09 05:24:07 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:12:56 +0000"
+      "log_spam_fixer": "2025-04-09 05:24:07 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:12:56 +0000"
+      "log_spam_fixer": "2025-04-09 05:24:07 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-09 03:12:56 +0000"
+      "log_spam_fixer": "2025-04-09 05:24:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-09 04:26:01 +0000",
+      "has_the_recipe": "2025-04-09 04:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-09 04:26:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-09 04:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-09 04:42:50 +0000"
     },
     "done": false
   },

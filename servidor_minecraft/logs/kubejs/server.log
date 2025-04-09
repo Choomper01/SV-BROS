@@ -1,65 +1,9 @@
-[03:26:58] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[03:26:58] [INIT] Loaded plugins:
-[03:26:58] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[03:26:58] [ERROR] ! export function registerCommands(event) {#7: identifier is a reserved word: export
-[03:26:58] [ERROR] ! …rhino.EvaluatorException: identifier is a reserved word: export (server_scripts:skin.js#7)
-[03:26:58] [ERROR] !   at …rhino.DefaultErrorReporter.runtimeError(DefaultErrorReporter.java:67)
-[03:26:58] [ERROR] !   at …rhino.DefaultErrorReporter.error(DefaultErrorReporter.java:58)
-[03:26:58] [ERROR] !   at …rhino.Parser.addError(Parser.java:281)
-[03:26:58] [ERROR] !   at …rhino.Parser.reportError(Parser.java:335)
-[03:26:58] [ERROR] !   at …rhino.Parser.reportError(Parser.java:326)
-[03:26:58] [ERROR] !   at …rhino.Parser.primaryExpr(Parser.java:2766)
-[03:26:58] [ERROR] !   at …rhino.Parser.memberExpr(Parser.java:2515)
-[03:26:58] [ERROR] !   at …rhino.Parser.unaryExpr(Parser.java:2453)
-[03:26:58] [ERROR] !   at …rhino.Parser.mulExpr(Parser.java:2396)
-[03:26:58] [ERROR] !   at …rhino.Parser.addExpr(Parser.java:2382)
-[03:26:58] [ERROR] !   at …rhino.Parser.shiftExpr(Parser.java:2366)
-[03:26:58] [ERROR] !   at …rhino.Parser.relExpr(Parser.java:2342)
-[03:26:58] [ERROR] !   at …rhino.Parser.eqExpr(Parser.java:2326)
-[03:26:58] [ERROR] !   at …rhino.Parser.bitAndExpr(Parser.java:2317)
-[03:26:58] [ERROR] !   at …rhino.Parser.bitXorExpr(Parser.java:2308)
-[03:26:58] [ERROR] !   at …rhino.Parser.bitOrExpr(Parser.java:2299)
-[03:26:58] [ERROR] !   at …rhino.Parser.powExpr(Parser.java:2290)
-[03:26:58] [ERROR] !   at …rhino.Parser.andExpr(Parser.java:2281)
-[03:26:58] [ERROR] !   at …rhino.Parser.orExpr(Parser.java:2272)
-[03:26:58] [ERROR] !   at …rhino.Parser.ncoExpr(Parser.java:2263)
-[03:26:58] [ERROR] !   at …rhino.Parser.condExpr(Parser.java:2226)
-[03:26:58] [ERROR] !   at …rhino.Parser.assignExpr(Parser.java:2184)
-[03:26:58] [ERROR] !   at …rhino.Parser.expr(Parser.java:2164)
-[03:26:58] [ERROR] !   at …rhino.Parser.statementHelper(Parser.java:1125)
-[03:26:58] [ERROR] !   at …rhino.Parser.statement(Parser.java:993)
-[03:26:58] [ERROR] !   at …rhino.Parser.parse(Parser.java:584)
-[03:26:58] [ERROR] !   at …rhino.Parser.parse(Parser.java:532)
-[03:26:58] [ERROR] !   at …rhino.Context.parse(Context.java:1088)
-[03:26:58] [ERROR] !   at …rhino.Context.compileImpl(Context.java:1050)
-[03:26:58] [ERROR] !   at …rhino.Context.compileString(Context.java:654)
-[03:26:58] [ERROR] !   at …rhino.Context.compileString(Context.java:649)
-[03:26:58] [ERROR] !   at …rhino.Context.evaluateString(Context.java:571)
-[03:26:58] [ERROR] !   at …kubejs.script.ScriptFile.load(ScriptFile.java:17)
-[03:26:58] [ERROR] !   at …kubejs.script.ScriptManager.load(ScriptManager.java:217)
-[03:26:58] [ERROR] !   at …kubejs.script.ScriptManager.reload(ScriptManager.java:78)
-[03:26:58] [ERROR] !   at …kubejs.server.ServerScriptManager.wrapResourceManager(ServerScriptManager.java:85)
-[03:26:58] [ERROR] !   at net.minecraft.server.WorldLoader$PackConfig.localvar$zkj000$injectKubeJSPacks(WorldLoader.java:515)
-[03:26:58] [ERROR] !   at net.minecraft.server.WorldLoader$PackConfig.m_214399_(WorldLoader.java:80)
-[03:26:58] [ERROR] !   at net.minecraft.server.WorldLoader.m_214362_(WorldLoader.java:28)
-[03:26:58] [ERROR] !   at net.minecraft.server.Main.lambda$main$2(Main.java:167)
-[03:26:58] [ERROR] !   at net.minecraft.Util.m_214652_(Util.java:777)
-[03:26:58] [ERROR] !   at net.minecraft.Util.m_214679_(Util.java:772)
-[03:26:58] [ERROR] !   at net.minecraft.server.Main.main(Main.java:166)
-[03:26:58] [ERROR] !   at java.lang.reflect.Method.invoke(Method.java:580)
-[03:26:58] [ERROR] !   at MC-BOOTSTRAP/fmlloader@1.20.1-47.4.0/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111)
-[03:26:58] [ERROR] !   at MC-BOOTSTRAP/fmlloader@1.20.1-47.4.0/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103)
-[03:26:58] [ERROR] !   at MC-BOOTSTRAP/fmlloader@1.20.1-47.4.0/net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27)
-[03:26:58] [ERROR] !   at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
-[03:26:58] [ERROR] !   at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
-[03:26:58] [ERROR] !   at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
-[03:26:58] [ERROR] !   at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.run(Launcher.java:108)
-[03:26:58] [ERROR] !   at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.main(Launcher.java:78)
-[03:26:58] [ERROR] !   at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
-[03:26:58] [ERROR] !   at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
-[03:26:58] [ERROR] !   at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
-[03:26:58] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[03:26:58] [INFO] Loaded script server_scripts:example.js in 0.0 s
-[03:26:58] [INFO] Loaded 1/2 KubeJS server scripts in 0.048 s with 1 errors and 0 warnings
-[03:26:58] [INFO] Scripts loaded
-[03:27:10] [INFO] Server resource reload complete!
+[03:35:59] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[03:35:59] [INIT] Loaded plugins:
+[03:35:59] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[03:35:59] [ERROR] ! Line 50: 'onEvent()' is no longer supported! Read more on wiki: https://kubejs.com/kjs6
+[03:35:59] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[03:35:59] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[03:35:59] [INFO] Loaded 1/2 KubeJS server scripts in 0.027 s with 1 errors and 0 warnings
+[03:35:59] [INFO] Scripts loaded
+[03:36:03] [INFO] Server resource reload complete!

@@ -1146,3 +1146,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Apr2025 02:35:03.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ii [Squad] ii 》 Choomper > aa
 [09Apr2025 02:36:26.622] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choomper lost connection: Timed out
 [09Apr2025 02:36:26.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [-] Choomper ha abandonado el servidor
+[09Apr2025 02:44:51.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Choomper[/127.79.4.24:35261] logged in with entity id 5217 at (-9.61217819251695, 126.0, 1344.406454901513)
+[09Apr2025 02:44:51.387] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[09Apr2025 02:44:51.389] [Server thread/INFO] [Jade/]: Syncing config to Choomper (bef20a8c-acbf-34a6-b963-792067d10a57)
+[09Apr2025 02:44:51.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [+] ii [Squad] ii 》 Choomper  ha ingresado al servidor
+[09Apr2025 02:44:52.384] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Choomper (bef20a8c-acbf-34a6-b963-792067d10a57)
+[09Apr2025 02:46:10.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ii [Squad] ii 》 Choomper > a

@@ -1117,3 +1117,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Apr2025 02:01:04.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ii [Squad] ii 》 Choomper > aa
 [09Apr2025 02:01:06.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choomper lost connection: Timed out
 [09Apr2025 02:01:06.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [-] Choomper ha abandonado el servidor
+[09Apr2025 02:05:59.362] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@38ad949a[id=<null>,name=Choomper,properties={},legacy=false] (/127.79.4.24:59009): Took too long to log in
+[09Apr2025 02:05:59.363] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38ad949a[id=<null>,name=Choomper,properties={},legacy=false] (/127.79.4.24:59009) lost connection: Took too long to log in
+[09Apr2025 02:05:59.412] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Apr2025 02:07:43.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Choomper[/127.79.4.24:58511] logged in with entity id 2195 at (-8.32779528076192, 126.0, 1346.6596990086318)
+[09Apr2025 02:07:43.643] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[09Apr2025 02:07:43.643] [Server thread/INFO] [Jade/]: Syncing config to Choomper (bef20a8c-acbf-34a6-b963-792067d10a57)
+[09Apr2025 02:07:43.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [+] ii [Squad] ii 》 Choomper  ha ingresado al servidor
+[09Apr2025 02:07:44.612] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Choomper (bef20a8c-acbf-34a6-b963-792067d10a57)
+[09Apr2025 02:08:13.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Choomper lost connection: Timed out
+[09Apr2025 02:08:13.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [-] Choomper ha abandonado el servidor
+[09Apr2025 02:11:18.313] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3fcb129e[id=<null>,name=Choomper,properties={},legacy=false] (/127.79.4.24:54111) lost connection: Timed out
